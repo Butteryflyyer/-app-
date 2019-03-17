@@ -1,0 +1,161 @@
+[{
+	"SSBorderMoney": "5元",
+	"SSBphone": "13544414432",
+	"SSBtime": "2019-3-10 10:20",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区丰田小区6号楼101号",
+	"SSBorderNum": "2",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c3329bb12215f0072c6d13e",
+	"SSBname": "黄学潮"
+}, {
+	"SSBorderMoney": "0元",
+	"SSBphone": "13517163432",
+	"SSBtime": "2019-3-10 10:21",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区丰田小区9号楼201号",
+	"SSBorderNum": "2",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c33299bac502e49d26c90fe",
+	"SSBname": "黄红生"
+}, {
+	"SSBorderMoney": "5元",
+	"SSBphone": "13537433212",
+	"SSBtime": "2019-3-10 10:22",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区丰田小区10号楼501号",
+	"SSBorderNum": "1",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c33275cfe33c2006ffb6607",
+	"SSBname": "白天"
+}, {
+	"SSBorderMoney": "10元",
+	"SSBphone": "13509377643",
+	"SSBtime": "2019-3-9 9:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区光华小区10号楼901号",
+	"SSBorderNum": "3",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c332973ac502e49d26c3dc9",
+	"SSBname": "刘辉"
+}, {
+	"SSBorderMoney": "6元",
+	"SSBphone": "13517666543",
+	"SSBtime": "2019-3-9 9:11",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区光华小区10号楼301号",
+	"SSBorderNum": "2",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c332733ac502e0066fa6636",
+	"SSBname": "刘婷"
+}, {
+	"SSBorderMoney": "0元",
+	"SSBphone": "13513909353",
+	"SSBtime": "2019-3-9 9:20",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区环海小区1号楼501号",
+	"SSBorderNum": "1",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c33295612215f0072c6c99f",
+	"SSBname": "刘洋"
+}, {
+	"SSBorderMoney": "0元",
+	"SSBphone": "13561634372",
+	"SSBtime": "2019-3-9 10:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区环海小区1号楼601号",
+	"SSBorderNum": "3",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c3326b1ac502e49d26c5ab6",
+	"SSBname": "高阳"
+}, {
+	"SSBorderMoney": "10元",
+	"SSBphone": "13576762332",
+	"SSBtime": "2019-3-9 10:23",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区环海小区7号楼501号",
+	"SSBorderNum": "2",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c3326f2ac502e49d26c5f2d",
+	"SSBname": "高燕"
+}, {
+	"SSBorderMoney": "5元",
+	"SSBphone": "15617377653",
+	"SSBtime": "2019-3-9 10:40",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区1号楼902号",
+	"SSBorderNum": "5",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "",
+	"SSBname": "王鑫"
+}, {
+	"SSBorderMoney": "1元",
+	"SSBphone": "15613939764",
+	"SSBtime": "2019-3-9 11:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区10号楼202号",
+	"SSBorderNum": "1",
+	"SSBOrderCondition": "",
+	"SSBobjectId": "5c33273244d9040066040453",
+	"SSBname": "王光"
+}, {
+	"SSBorderMoney": "2元",
+	"SSBphone": "13573937634",
+	"SSBtime": "2019-3-9 11:11",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区20号楼502号",
+	"SSBorderNum": "2",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c33292e44d904006604264f",
+	"SSBname": "王天龙"
+}, {
+	"SSBorderMoney": "0元",
+	"SSBphone": "13567643232",
+	"SSBtime": "2019-3-9 12:11",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区7号楼302号",
+	"SSBorderNum": "5",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c332a43fe33c2006ffb9e3e",
+	"SSBname": "黄海"
+}, {
+	"SSBorderMoney": "4元",
+	"SSBphone": "13517654342",
+	"SSBtime": "2019-3-9 12:12",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区7号楼902号",
+	"SSBorderNum": "2",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c332a27fe33c2006592371c",
+	"SSBname": "刘虎"
+}, {
+	"SSBorderMoney": "5元",
+	"SSBphone": "13513966543",
+	"SSBtime": "2019-3-3 9:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区17号楼301号",
+	"SSBorderNum": "6",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c332a06fe33c2006592347d",
+	"SSBname": "刘悦"
+}, {
+	"SSBorderMoney": "20元",
+	"SSBphone": "13573790321",
+	"SSBtime": "2019-3-3 9:15",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区万达小区3号楼602号",
+	"SSBorderNum": "6",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c3329e6fe33c2006ffb976a",
+	"SSBname": "张策"
+}, {
+	"SSBorderMoney": "3元",
+	"SSBphone": "13590937643",
+	"SSBtime": "2019-3-3 9:40",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区10号楼1002号",
+	"SSBorderNum": "1",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c3329e6fe33c2006ffb976b",
+	"SSBname": "张辉"
+}]
