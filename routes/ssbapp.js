@@ -58,4 +58,40 @@ fs.writeFile(__dirname + '/ssbApp/ssbappdata.json',dic.data, function(err){
 });
 
 
+//发布订单
+router.post('/fireOrder',function(req, res, next) {
+  var dic = req.body;
+  console.log(dic.data);
+  // var json = JSON.stringify(dic);
+   fs.writeFile(__dirname + '/ssbApp/ssbmytext.json',dic.data, function(err){
+  if(!err){
+    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+    //  console.log(data);
+      
+  
+      res.send('success');
+  }else{
+      throw err;
+  }
+})
+
+});
+
+//拿取自己发布的订单
+router.post('/getMyFireOrder', function(req, res, next) {
+  var dic = req.body;
+
+   fs.readFile(__dirname + '/ssbApp/ssbmytext.json', function(err, data){
+  if(!err){
+    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+     console.log(data);
+      res.send(data);
+  }else{
+      throw err;
+  }
+})
+
+});
+
+
 module.exports = router;
