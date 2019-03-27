@@ -125,19 +125,34 @@ router.post('/loginBoss', function(req, res, next) {
     res.send(JSON.stringify({'status':'fail'}));
   }
 });
-
+//获取我的信息
 router.post('/getMyInfo', function(req, res, next) {
   var params = URL.parse(req.url, true).query;
   
   console.log(req.body);
   var dic = req.body;
   
-  var info = {"name":"李红心","area":"环翠区","num":"16人","zili":"入职1年 2次获得优秀区域经理称号","biaoqian":"和蔼 努力 勤奋","rate":"10%"};
+  var info = {"name":"李红心","area":"环翠区","num":"管理16人，可以招聘新员工","zili":"入职1年 2次获得优秀区域经理称号","biaoqian":"和蔼 努力 勤奋","rate":"10%"};
 
     res.send(JSON.stringify(info));
   
 });
+//给员工评价
+router.post('/pingjia', function(req, res, next) {
+  var params = URL.parse(req.url, true).query;
+    var info = {"result":"success"};
+    res.send(JSON.stringify(info));
+  
+});
 
+
+//请输入招聘信息
+router.post('/findPersonJob', function(req, res, next) {
+  var params = URL.parse(req.url, true).query;
+    var info = {"result":"success"};
+    res.send(JSON.stringify(info));
+  
+});
 
 
 
