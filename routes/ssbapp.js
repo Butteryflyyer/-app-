@@ -93,5 +93,52 @@ router.post('/getMyFireOrder', function(req, res, next) {
 
 });
 
+//拿取当前送水员工数据
+router.post('/getemployee', function(req, res, next) {
+  var dic = req.body;
+
+   fs.readFile(__dirname + '/ssbApp/ssbmyemployee.json', function(err, data){
+  if(!err){
+    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+     console.log(data);
+      res.send(data);
+  }else{
+      throw err;
+  }
+})
+
+});
+
+//老板登录接口
+router.post('/loginBoss', function(req, res, next) {
+  var params = URL.parse(req.url, true).query;
+  
+  console.log(req.body);
+  var dic = req.body;
+  console.log(dic.phone);
+  console.log(dic.password);
+  
+  
+  if(dic.phone == '18518989539'&& dic.password == 'aaaa1111'){
+    res.send(JSON.stringify({'status':'success'}));
+  }else{
+    res.send(JSON.stringify({'status':'fail'}));
+  }
+});
+
+router.post('/getMyInfo', function(req, res, next) {
+  var params = URL.parse(req.url, true).query;
+  
+  console.log(req.body);
+  var dic = req.body;
+  
+  var info = {"name":"李红心","area":"环翠区","num":"16人","zili":"入职1年 2次获得优秀区域经理称号","biaoqian":"和蔼 努力 勤奋","rate":"10%"};
+
+    res.send(JSON.stringify(info));
+  
+});
+
+
+
 
 module.exports = router;

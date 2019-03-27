@@ -1,0 +1,178 @@
+[{
+	"SSGetBorderMoney": "500元",
+	"SSBphone": "13500010032",
+	"SSBtime": "2019-2-10 10:20",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区丰田小区",
+	"SSBorderNum": "200",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c3329bb12215f0072c6d13e",
+    "SSBname": "王学潮",
+    "SSBGoodJob":"10"
+}, {
+	"SSGetBorderMoney": "550元",
+	"SSBphone": "13517163032",
+	"SSBtime": "2019-2-10 10:21",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区丰田小区",
+	"SSBorderNum": "220",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c33299bac502e09d26c90fe",
+    "SSBname": "王红生",
+    "SSBGoodJob":"16"
+}, {
+	"SSGetBorderMoney": "600元",
+	"SSBphone": "13537033212",
+	"SSBtime": "2019-2-10 10:22",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区光华小区",
+	"SSBorderNum": "150",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c33275cfe33c2006ffb6607",
+    "SSBname": "白天",
+    "SSBGoodJob":"14"
+}, {
+	"SSGetBorderMoney": "534元",
+	"SSBphone": "13509377603",
+	"SSBtime": "2019-2-9 9:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区光华小区",
+	"SSBorderNum": "211",
+	"SSBOrderCondition": "0",
+	"SSBobjectId": "5c332973ac502e09d26c3dc9",
+    "SSBname": "刘辉",
+    "SSBGoodJob":"12"
+}, {
+	"SSGetBorderMoney": "611元",
+	"SSBphone": "13517666503",
+	"SSBtime": "2019-2-9 9:11",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区天越小区",
+	"SSBorderNum": "220",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c332733ac502e0066fa6636",
+    "SSBname": "刘婷",
+    "SSBGoodJob":"10"
+}, {
+	"SSGetBorderMoney": "530元",
+	"SSBphone": "13513909353",
+	"SSBtime": "2019-2-9 9:20",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区环海小区",
+	"SSBorderNum": "212",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c33295612215f0072c6c99f",
+    "SSBname": "刘洋",
+    "SSBGoodJob":"10"
+    
+}, {
+	"SSGetBorderMoney": "232元",
+	"SSBphone": "13561630372",
+	"SSBtime": "2019-2-9 10:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区环海小区",
+	"SSBorderNum": "50",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c3326b1ac502e09d26c5ab6",
+    "SSBname": "高阳",
+    "SSBGoodJob":"11"
+}, {
+	"SSGetBorderMoney": "700元",
+	"SSBphone": "13576762332",
+	"SSBtime": "2019-2-9 10:23",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区环海小区",
+	"SSBorderNum": "260",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c3326f2ac502e09d26c5f2d",
+    "SSBname": "高燕",
+    "SSBGoodJob":"20"
+}, {
+	"SSGetBorderMoney": "580元",
+	"SSBphone": "15617377653",
+	"SSBtime": "2019-2-9 10:00",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区",
+	"SSBorderNum": "215",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "",
+    "SSBname": "王鑫",
+    "SSBGoodJob":"14"
+}, {
+	"SSGetBorderMoney": "620元",
+	"SSBphone": "15613939760",
+	"SSBtime": "2019-2-9 11:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区青红小区",
+	"SSBorderNum": "260",
+	"SSBOrderCondition": "",
+	"SSBobjectId": "5c33273200d9000066000053",
+    "SSBname": "王光",
+    "SSBGoodJob":"9"
+}, {
+	"SSGetBorderMoney": "650元",
+	"SSBphone": "13573937630",
+	"SSBtime": "2019-2-9 11:11",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区中方小区",
+	"SSBorderNum": "192",
+	"SSBOrderCondition": "1",
+	"SSBobjectId": "5c33292e00d900006600260f",
+    "SSBname": "王天龙",
+    "SSBGoodJob":"21"
+}, {
+	"SSGetBorderMoney": "544元",
+	"SSBphone": "13567603232",
+	"SSBtime": "2019-2-9 12:11",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区中方小区",
+	"SSBorderNum": "201",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c332a03fe33c2006ffb9e3e",
+    "SSBname": "王海",
+    "SSBGoodJob":"12"
+}, {
+	"SSGetBorderMoney": "599元",
+	"SSBphone": "13517650302",
+	"SSBtime": "2019-2-9 12:12",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区回笼小区",
+	"SSBorderNum": "213",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c332a27fe33c2006592371c",
+    "SSBname": "刘虎",
+    "SSBGoodJob":"11"
+}, {
+	"SSGetBorderMoney": "801元",
+	"SSBphone": "13513966503",
+	"SSBtime": "2019-2-3 9:10",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区回笼小区",
+	"SSBorderNum": "300",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c332a06fe33c2006592307d",
+    "SSBname": "刘悦",
+    "SSBGoodJob":"14"
+}, {
+	"SSGetBorderMoney": "799元",
+	"SSBphone": "13573790321",
+	"SSBtime": "2019-2-3 9:15",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区万达小区",
+	"SSBorderNum": "288",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c3329e6fe33c2006ffb976a",
+    "SSBname": "张策",
+    "SSBGoodJob":"9"
+}, {
+	"SSGetBorderMoney": "821元",
+	"SSBphone": "13590937603",
+	"SSBtime": "2019-2-3 9:00",
+	"SSBarea": "山东省威海市",
+	"detailSSBarea": "环翠区悦动小区",
+	"SSBorderNum": "299",
+	"SSBOrderCondition": "2",
+	"SSBobjectId": "5c3329e6fe33c2006ffb976b",
+    "SSBname": "张辉",
+    "SSBGoodJob":"16"
+}]
