@@ -5,6 +5,31 @@ var URL = require('url');
 
 var User = require('./user')
 
+//注册接口
+router.post('/registssb', function(req, res, next) {
+  var dic = req.body;
+  fs.writeFile(__dirname + '/ssbApp/ssbRegistList.json',dic.data, function(err){
+    if(!err){
+    
+        res.send('success');
+    }else{
+        throw err;
+    }
+  })
+});
+//获取注册人列表
+router.post('/getRegistPerson', function(req, res, next) {
+  fs.readFile(__dirname + '/ssbApp/ssbRegistList.json', function(err, data){
+    if(!err){
+      // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+       console.log(data);
+        res.send(data);
+    }else{
+        throw err;
+    }
+  })
+});
+
 //登录接口
 router.post('/loginssb', function(req, res, next) {
   var params = URL.parse(req.url, true).query;
@@ -15,7 +40,7 @@ router.post('/loginssb', function(req, res, next) {
   console.log(dic.password);
   
   
-  if(dic.phone == '18518989539'&& dic.password == 'aaaa1111'){
+  if(dic.phone || dic.phone == "18518989539"){
     res.send(JSON.stringify({'status':'success'}));
   }else{
     res.send(JSON.stringify({'status':'fail'}));
@@ -80,12 +105,17 @@ router.post('/fireOrder',function(req, res, next) {
 //拿取自己发布的订单
 router.post('/getMyFireOrder', function(req, res, next) {
   var dic = req.body;
-
+  
    fs.readFile(__dirname + '/ssbApp/ssbmytext.json', function(err, data){
   if(!err){
     // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
      console.log(data);
-      res.send(data);
+      if(dic.phone == "18518989539"){
+        res.send(data);
+      }else{
+        res.send();
+      }
+      
   }else{
       throw err;
   }
