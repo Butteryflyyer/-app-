@@ -65,14 +65,14 @@ fs.readFile(__dirname + '/workApp/workList.json', function(err, data){
 })
 
 });
+//往工作列表写入数据
 
-//写简历接口
-router.post('/fireWork', function(req, res, next) {
+router.post('/findJob', function(req, res, next) {
   var dic = req.body;
   console.log(dic.data);
   console.log(dic);
   
-  fs.writeFile(__dirname + '/workApp/workList.json',data, function(err){
+  fs.writeFile(__dirname + '/workApp/workList.json',dic.data, function(err){
     if(!err){
       // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
       //  console.log(data);
@@ -84,6 +84,52 @@ router.post('/fireWork', function(req, res, next) {
 });
 
 
+//写招聘接口
+router.post('/fireWork', function(req, res, next) {
+  var dic = req.body;
+  console.log(dic.data);
+  console.log(dic);
+  
+  fs.writeFile(__dirname + '/workApp/workList.json',dic.data, function(err){
+    if(!err){
+      // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+      //  console.log(data);
+        res.send('success');
+    }else{
+        throw err;
+    }
+  })
+});
+//发布简历
 
+router.post('/firejianli', function(req, res, next) {
+  var dic = req.body;
+  console.log(dic.data);
+  console.log(dic);
+  
+  fs.writeFile(__dirname + '/workApp/myJianli.json',dic.data, function(err){
+    if(!err){
+      // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+      //  console.log(data);
+        res.send('success');
+    }else{
+        throw err;
+    }
+  })
+});
+//拿去简历
+router.post('/getjianliInfo', function(req, res, next) {
+  var dic = req.body;
+fs.readFile(__dirname + '/workApp/myJianli.json', function(err, data){
+  if(!err){
+    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+     console.log(data);
+      res.send(data);
+  }else{
+      throw err;
+  }
+})
+
+});
 
 module.exports = router;
