@@ -10,9 +10,33 @@ var User = require('./user')
 router.get('/', function(req, res, next) {
   res.send('respond with a resource');
 });
+//注册接口
+router.post('/registJianzhiBoss', function(req, res, next) {
+  var dic = req.body;
+  fs.writeFile(__dirname + '/workApp/workRegistlist.json',dic.data, function(err){
+    if(!err){
+    
+        res.send('success');
+    }else{
+        throw err;
+    }
+  })
+});
+//获取注册人列表
+router.post('/getRegistPerson', function(req, res, next) {
+  fs.readFile(__dirname + '/workApp/workRegistlist.json', function(err, data){
+    if(!err){
+      // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+       console.log(data);
+        res.send(data);
+    }else{
+        throw err;
+    }
+  })
+});
 
 //登录接口
-router.post('/loginwork', function(req, res, next) {
+router.post('/loginJianzhiBoss', function(req, res, next) {
   var params = URL.parse(req.url, true).query;
   
   console.log(req.body);
@@ -21,7 +45,7 @@ router.post('/loginwork', function(req, res, next) {
   console.log(dic.password);
   
   
-  if(dic.phone == '18518989539'&& dic.password == 'aaaa1111'){
+  if(dic.phone || dic.phone == "18518989539"){
     res.send(JSON.stringify({'status':'success'}));
   }else{
     res.send(JSON.stringify({'status':'fail'}));
@@ -57,9 +81,9 @@ router.post('/fireWork', function(req, res, next) {
         throw err;
     }
   })
-
-
 });
+
+
 
 
 module.exports = router;

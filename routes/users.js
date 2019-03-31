@@ -9,22 +9,7 @@ router.get('/', function(req, res, next) {
   res.send('respond with a resource');
 });
 
-//登录接口
-router.post('/login', function(req, res, next) {
-  var params = URL.parse(req.url, true).query;
-  
-  console.log(req.body);
-  var dic = req.body;
-  console.log(dic.phone);
-  console.log(dic.password);
-  
-  
-  if(dic.phone == '18518989539'&& dic.password == 'aaaa1111'){
-    res.send(JSON.stringify({'status':'success'}));
-  }else{
-    res.send(JSON.stringify({'status':'fail'}));
-  }
-});
+
 //获取订单列表
 router.post('/getorderInfo', function(req, res, next) {
   var dic = req.body;
