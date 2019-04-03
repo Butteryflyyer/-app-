@@ -8,6 +8,7 @@ var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var SSBAPPRouter = require('./routes/ssbapp');
 var workAppRouter = require('./routes/work');
+var JisudaRouter = require('./routes/jisudaApp');
 
 var app = express();
 
@@ -26,6 +27,7 @@ app.use('/', indexRouter);
 app.use('/users', usersRouter);
 app.use('/ssbapp',SSBAPPRouter);
 app.use('/work',workAppRouter);
+app.use('/jisudaApp',JisudaRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
