@@ -99,4 +99,42 @@ fs.readFile(__dirname + '/jisudaApp/jisudaPingjia.json', function(err, data){
 
 });
 
+//学生端下单  拿取我发布的订单
+
+router.post('/getMyfireList', function(req, res, next) {
+  var dic = req.body;
+fs.readFile(__dirname + '/jisudaApp/jisudaMyfireList.json', function(err, data){
+  if(!err){
+    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+     console.log(data);
+      res.send(data);
+  }else{
+      throw err;
+  }
+})
+
+});
+//下单接口
+router.post('/jisudaFireOrder', function(req, res, next) {
+  var dic = req.body;
+fs.writeFile(__dirname + '/jisudaApp/jisudaMyfireList.json',dic.data, function(err){
+  if(!err){
+    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+    //  console.log(data);
+      res.send('success');
+  }else{
+      throw err;
+  }
+})
+
+});
+//评价
+router.post('/pingjia', function(req, res, next) {
+  var dic = req.body;
+
+  res.send(JSON.stringify({'status':'success'}));
+  
+
+});
+
 module.exports = router;
