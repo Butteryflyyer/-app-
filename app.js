@@ -9,6 +9,9 @@ var usersRouter = require('./routes/users');
 var SSBAPPRouter = require('./routes/ssbapp');
 var workAppRouter = require('./routes/work');
 var JisudaRouter = require('./routes/jisudaApp');
+var jiazhengAppRouter = require('./routes/jiazhengApp');
+var xueshengDaikeAppRouter = require('./routes/xueshengDaikeApp');
+
 
 var app = express();
 
@@ -28,7 +31,8 @@ app.use('/users', usersRouter);
 app.use('/ssbapp',SSBAPPRouter);
 app.use('/work',workAppRouter);
 app.use('/jisudaApp',JisudaRouter);
-
+app.use('/jiazhengApp',jiazhengAppRouter);
+app.use('/xueshengDaikeApp',xueshengDaikeAppRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
