@@ -11,7 +11,7 @@ var workAppRouter = require('./routes/work');
 var JisudaRouter = require('./routes/jisudaApp');
 var jiazhengAppRouter = require('./routes/jiazhengApp');
 var xueshengDaikeAppRouter = require('./routes/xueshengDaikeApp');
-
+var songnaiAppRouter = require('./routes/songnaiApp');
 
 var app = express();
 
@@ -33,6 +33,7 @@ app.use('/work',workAppRouter);
 app.use('/jisudaApp',JisudaRouter);
 app.use('/jiazhengApp',jiazhengAppRouter);
 app.use('/xueshengDaikeApp',xueshengDaikeAppRouter);
+app.use('/songnaiApp',songnaiAppRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
