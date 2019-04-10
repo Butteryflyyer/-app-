@@ -138,7 +138,7 @@ router.post('/pingjia', function(req, res, next) {
 });
 
 //拿取二维码
-router.post('/getSQR', function(req, res, next) {
+router.post('/getSQRR', function(req, res, next) {
   var dic = req.body;
  fs.readFile(__dirname + '/jisudaApp/SQRsuccess.json', function(err, data){
   if(!err){
