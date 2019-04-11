@@ -116,9 +116,9 @@ router.post('/songnaiSuccess', function(req, res, next) {
 
 
 //拿去评价
-router.post('/Jiazhengpingjia', function(req, res, next) {
+router.post('/SongnaiPingjia', function(req, res, next) {
   var dic = req.body;
-fs.readFile(__dirname + '/jiazhengApp/jiazhengPingjia.json', function(err, data){
+fs.readFile(__dirname + '/SongnaiApp/SongnaiPingjia.json', function(err, data){
   if(!err){
     // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
      console.log(data);
