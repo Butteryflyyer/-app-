@@ -130,6 +130,10 @@ fs.readFile(__dirname + '/SongnaiApp/SongnaiPingjia.json', function(err, data){
 
 });
 
+
+
+
+
 //学生端下单  拿取我发布的订单
 
 router.post('/getMyfireList', function(req, res, next) {
