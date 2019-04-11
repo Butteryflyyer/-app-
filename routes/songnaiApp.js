@@ -97,7 +97,7 @@ router.post('/songnaiAready', function(req, res, next) {
         }
       })
   });
-  //拿取已完成订单
+//拿取已完成订单
 router.post('/songnaiSuccess', function(req, res, next) {
     var dic = req.body;
     console.log(dic.data);
@@ -118,20 +118,19 @@ router.post('/songnaiSuccess', function(req, res, next) {
 //拿去评价
 router.post('/songnaiPingjiaList', function(req, res, next) {
   var dic = req.body;
-fs.readFile(__dirname + '/SongnaiApp/SongnaiPingjia.json', function(err, data){
-  if(!err){
-    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
-     console.log(data);
+// fs.readFile(__dirname + '/SongnaiApp/SongnaiPingjia.json', function(err, data){
+//   if(!err){
+//     // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+//      console.log(data);
+     var data = [{"score":"10分","pingjia":["感谢提供新的运营模式，效率提高10倍","速度像飞一样","诚实守信","态度良好","必须给个好评","10分好评","我们学习的好榜样，勤工俭学啊.","努力工作的孩子","太方便了","足不出户，收奶喽"]}];
+    
       res.send(data);
-  }else{
-      throw err;
-  }
-})
+//   }else{
+//       throw err;
+//   }
+// })
 
 });
-
-
-
 
 
 //学生端下单  拿取我发布的订单
