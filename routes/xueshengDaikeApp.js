@@ -116,33 +116,22 @@ router.post('/jiazhengSuccess', function(req, res, next) {
 
 
 //拿去评价
-router.post('/Jiazhengpingjia', function(req, res, next) {
+router.post('/Daikepingjia', function(req, res, next) {
   var dic = req.body;
-fs.readFile(__dirname + '/jiazhengApp/jiazhengPingjia.json', function(err, data){
-  if(!err){
-    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
-     console.log(data);
-      res.send(data);
-  }else{
-      throw err;
-  }
-})
+
+  var data = [
+   {"name":"李洪生","pingjia":"满分好评，准时到达，完美完成上课任务"},
+   {"name":"白天阳","pingjia":"还帮忙把作业写了，棒棒的"}
+  ];
+
+  res.send(data);
 
 });
 
-//学生端下单  拿取我发布的订单
-
-router.post('/getMyfireList', function(req, res, next) {
+//评价
+router.post('/fankui', function(req, res, next) {
   var dic = req.body;
-fs.readFile(__dirname + '/jisudaApp/jisudaMyfireList.json', function(err, data){
-  if(!err){
-    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
-     console.log(data);
-      res.send(data);
-  }else{
-      throw err;
-  }
-})
+  res.send("success");
 
 });
 //下单接口
