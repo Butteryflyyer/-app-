@@ -36,7 +36,7 @@ router.post('/getXueshengRegistPerson', function(req, res, next) {
 });
 
 //登录接口
-router.post('/loginJiazhengApp', function(req, res, next) {
+router.post('/loginXueshengApp', function(req, res, next) {
   var params = URL.parse(req.url, true).query;
   
   console.log(req.body);
