@@ -73,7 +73,7 @@
     "reason":"未买到回校车票",
     "code":"5289",
     "studentNum":"37040820164521",
-    "status":"0",
+    "status":"2",
     "shenhe":"0"
 },
 {"kemu":"英语课",
@@ -99,7 +99,7 @@
     "reason":"生病住院需要请假",
     "code":"5347",
     "studentNum":"37040820133761",
-    "status":"0",
+    "status":"1",
     "shenhe":"0"
 },
 {"kemu":"线性代数",
@@ -152,7 +152,7 @@
     "code":"3432",
     "studentNum":"37040820163234",
     "status":"0",
-    "shenhe":"0"
+    "shenhe":"1"
 },
 {"kemu":"英语课",
     "banji":"外国语学院英语15级三班",
@@ -178,7 +178,7 @@
     "code":"5969",
     "studentNum":"37040820187644",
     "status":"0",
-    "shenhe":"0"
+    "shenhe":"1"
 },
 {"kemu":"电气实习",
     "banji":"电气学院自动化15级二班",
