@@ -118,15 +118,10 @@ router.post('/StudentSuccess', function(req, res, next) {
 //拿去评价
 router.post('/StudentPingjia', function(req, res, next) {
   var dic = req.body;
-fs.readFile(__dirname + '/studentJianzhi/StudentPingjia.json', function(err, data){
-  if(!err){
-    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
-     console.log(data);
+   var data = {"score":"10分","pingjia":["态度非常好","速度像飞一样","诚实守信","态度良好","必须给个好评","10分好评","我们学习的好榜样，勤工俭学啊.","努力工作的孩子","太方便了","足不出户，收快递啦。","勤劳的孩子","三好学生","兼职小能手"]}
+  ;
       res.send(data);
-  }else{
-      throw err;
-  }
-})
+
 
 });
 
