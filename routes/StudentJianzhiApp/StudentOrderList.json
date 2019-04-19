@@ -28,7 +28,7 @@
 	"orderStyle": "0",
 	"startAddress": "理工大西校区12号宿舍楼楼101宿舍",
 	"startTime": "2019-3-21 8:20",
-	"status": "2",
+	"status": "0",
 	"endName": "李生"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼302室",
@@ -185,7 +185,7 @@
 	"activename": "郭洋同学",
 	"orderStyle": "4"
 }, {
-	"status": "0",
+	"status": "2",
 	"category": "学生考场监考",
 	"othername": "李老师",
 	"MoneyNumGet": "10元\/小时",
