@@ -148,7 +148,7 @@ router.post('/LifeAppfankui', function(req, res, next) {
 
 
 //拿取二维码
-router.post('/getSQRR', function(req, res, next) {
+router.post('/getLifeSQRR', function(req, res, next) {
   var dic = req.body;
  fs.readFile(__dirname + '/jisudaApp/SQRsuccess.json', function(err, data){
   if(!err){
