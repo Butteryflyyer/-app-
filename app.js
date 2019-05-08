@@ -13,6 +13,7 @@ var jiazhengAppRouter = require('./routes/jiazhengApp');
 var xueshengDaikeAppRouter = require('./routes/xueshengDaikeApp');
 var songnaiAppRouter = require('./routes/songnaiApp');
 var studentJianzhiRouter = require('./routes/studentJianzhi');
+var lifeAppRouter = require("./routes/LifeApp");
 var app = express();
 
 
@@ -35,6 +36,7 @@ app.use('/jiazhengApp',jiazhengAppRouter);
 app.use('/xueshengDaikeApp',xueshengDaikeAppRouter);
 app.use('/songnaiApp',songnaiAppRouter);
 app.use('/studentJianzhi',studentJianzhiRouter);
+app.use('/lifeApp',lifeAppRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
