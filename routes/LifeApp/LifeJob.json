@@ -40,7 +40,7 @@
     "code":"2663",
     "category":"4",
     "jiaji":"0",
-    "status":"0",
+    "status":"2",
     "objectId":"0x239843898923112300",
     "typeName":"买菜"
 },
@@ -85,7 +85,7 @@
     "code":"1933",
     "category":"5",
     "jiaji":"0",
-    "status":"0",
+    "status":"1",
     "objectId":"0x239843898923112321",
     "typeName":"快递"
 },
@@ -114,8 +114,8 @@
     "yaoqiu":"要求是一定要有责任心，会有人监工的。",
     "code":"6666",
     "category":"1",
-    "jiaji":"0",
-    "status":"0",
+    "jiaji":"1",
+    "status":"1",
     "objectId":"0x239843898923112344",
     "typeName":"保洁"
     },
@@ -177,7 +177,7 @@
     "code":"3932",
     "category":"2",
     "jiaji":"1",
-    "status":"0",
+    "status":"1",
     "objectId":"0x239843898923112323",
     "typeName":"搬家"
 },
@@ -207,7 +207,7 @@
     "code":"7777",
     "category":"2",
     "jiaji":"0",
-    "status":"0",
+    "status":"1",
     "objectId":"0x239843898923112338",
     "typeName":"搬家"
 },
@@ -240,7 +240,7 @@
     "code":"1556",
     "category":"3",
     "jiaji":"0",
-    "status":"0",
+    "status":"2",
     "objectId":"0x239843898923112393",
     "typeName":"维修"
 },
