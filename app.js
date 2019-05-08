@@ -13,7 +13,7 @@ var jiazhengAppRouter = require('./routes/jiazhengApp');
 var xueshengDaikeAppRouter = require('./routes/xueshengDaikeApp');
 var songnaiAppRouter = require('./routes/songnaiApp');
 var studentJianzhiRouter = require('./routes/studentJianzhi');
-var lifeAppRouter = require("./routes/LifeApp");
+var lifeAppRouter = require("./routes/lifeApp");
 var app = express();
 
 
