@@ -10,7 +10,9 @@
         "code":"2065",
         "category":"1",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112343",
+        "typeName":"保洁"
     },
     {   "type":"需要帮忙带些青菜",
         "address":"威海市环翠区百家小区8号楼101号",
@@ -23,7 +25,9 @@
         "code":"2033",
         "category":"4",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112332",
+        "typeName":"买菜"
     },
     {   "type":"需要帮忙带包大米40斤",
         "address":"威海市环翠区乐天小区10号楼110号",
@@ -36,7 +40,9 @@
         "code":"2663",
         "category":"4",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112300",
+        "typeName":"买菜"
     },
     {   "type":"需要帮忙带20个馒头",
         "address":"威海市环翠区乐天小区9号楼120号",
@@ -49,7 +55,9 @@
         "code":"2663",
         "category":"4",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112311",
+        "typeName":"买菜"
     },
     {   "type":"帮忙代取快递",
         "address":"威海市环翠区王舍小区1号楼901号",
@@ -62,7 +70,9 @@
         "code":"1933",
         "category":"5",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112399",
+        "typeName":"快递"
     },
     {   "type":"帮忙代取快递",
         "address":"威海市环翠区乐天小区1号楼901号",
@@ -75,7 +85,9 @@
         "code":"1933",
         "category":"5",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112321",
+        "typeName":"快递"
     },
     {   "type":"急需要搬家服务",
         "address":"威海市环翠区王舍区10号楼201号",
@@ -88,7 +100,9 @@
         "code":"2022",
         "category":"2",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112312",
+        "typeName":"搬家"
     },
     {"type":"需要阿姨小时工打扫厕所",
         "address":"威海市环翠区乐天小区12号楼1201号",
@@ -101,7 +115,9 @@
         "code":"6666",
         "category":"1",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112344",
+        "typeName":"保洁"
         },
         {"type":"三居室需要打扫保洁",
             "address":"威海市环翠区百家小区1号楼501号",
@@ -114,7 +130,9 @@
             "code":"8888",
              "category":"1",
              "jiaji":"1",
-             "status":"0"
+             "status":"0",
+             "objectId":"0x239843898923112391",
+             "typeName":"保洁"
         },
         {"type":"天启小区需要打扫11号楼楼梯",
                 "address":"威海市环翠区天启小区11号楼",
@@ -127,7 +145,9 @@
                 "code":"3456",
                 "category":"1",
                 "jiaji":"0",
-                "status":"0"
+                "status":"0",
+                "objectId":"0x239843898923112318",
+                "typeName":"保洁"
         },
         {"type":"四居室急招人打扫",
             "address":"威海市环翠区永田小区8号楼1501",
@@ -140,7 +160,9 @@
             "code":"1000",
             "category":"1",
             "jiaji":"0",
-            "status":"0"
+            "status":"0",
+            "objectId":"0x239843898923112366",
+            "typeName":"保洁"
     },
     
     
@@ -155,7 +177,9 @@
         "code":"3932",
         "category":"2",
         "jiaji":"1",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112323",
+        "typeName":"搬家"
     },
     {"type":"乐水小区需搬家工数名",
         "address":"威海市环翠区乐水小区5号楼405号",
@@ -168,7 +192,9 @@
         "code":"6898",
         "category":"2",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112324",
+        "typeName":"搬家"
     },
     {"type":"永田小区四居室搬家",
         "address":"威海市环翠区永田小区1号楼105号",
@@ -181,7 +207,9 @@
         "code":"7777",
         "category":"2",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112338",
+        "typeName":"搬家"
     },
     {"type":"顺利小区二居室搬家",
         "address":"威海市环翠区顺利小区10号楼805号",
@@ -194,7 +222,9 @@
         "code":"0000",
         "category":"2",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112333",
+        "typeName":"搬家"
     },
     
     
@@ -210,7 +240,9 @@
         "code":"1556",
         "category":"3",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112393",
+        "typeName":"维修"
     },
     {"type":"乐视电视机维修",
         "address":"威海市环翠区永天小区8号楼805号",
@@ -223,7 +255,9 @@
         "code":"1008",
         "category":"3",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112325",
+        "typeName":"维修"
     },
     {"type":"空调维修",
         "address":"威海市环翠区永天小区5号楼1005号",
@@ -236,7 +270,38 @@
         "code":"1888",
         "category":"3",
         "jiaji":"0",
-        "status":"0"
+        "status":"0",
+        "objectId":"0x239843898923112387",
+        "typeName":"维修"
+    },
+    {"type":"弘基电脑系统重装",
+        "address":"威海市环翠区永丰小区1号楼505号",
+        "name":"王女士",
+        "phone":"18586000534",
+        "endtime":"2019-4-7",
+        "moneytype":"立结",
+        "moneynum":"100元",
+        "yaoqiu":"电脑太卡，需要重装系统",
+        "code":"1999",
+        "category":"3",
+        "jiaji":"0",
+        "status":"2",
+        "typeName":"维修"
+    },
+    {"type":"急需宽带安装",
+        "address":"威海市环翠区顺利小区1号楼1005号",
+        "name":"李女士",
+        "phone":"18586987654",
+        "endtime":"2019-4-10",
+        "moneytype":"立结",
+        "moneynum":"1000元",
+        "yaoqiu":"需要办理2年时间宽带，速度来人接单",
+        "code":"8888",
+        "category":"3",
+        "jiaji":"0",
+        "status":"0",
+        "typeName":"维修"
+    
     }
     
     
