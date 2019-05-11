@@ -9,7 +9,8 @@
     "code":"2065",
     "category":"1",
     "jiaji":"0",
-    "status":"0"
+    "status":"0",
+    "JieDanphone":""
     },
     {"type":"需要阿姨小时工打扫厕所",
       "address":"威海市环翠区乐天小区12号楼1201号",
@@ -22,7 +23,8 @@
       "code":"6666",
       "category":"1",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
       },
       {"type":"三居室需要打扫保洁",
           "address":"威海市环翠区百家小区1号楼501号",
@@ -35,7 +37,8 @@
           "code":"8888",
            "category":"1",
            "jiaji":"1",
-           "status":"0"
+           "status":"0",
+           "JieDanphone":""
       },
       {"type":"天启小区需要打扫11号楼楼梯",
               "address":"威海市环翠区天启小区11号楼",
@@ -48,7 +51,8 @@
               "code":"3456",
               "category":"1",
               "jiaji":"0",
-              "status":"0"
+              "status":"0",
+              "JieDanphone":""
       },
       {"type":"四居室急招人打扫",
           "address":"威海市环翠区永田小区8号楼1501",
@@ -61,7 +65,8 @@
           "code":"1000",
           "category":"1",
           "jiaji":"0",
-          "status":"0"
+          "status":"0",
+          "JieDanphone":""
   },
   
   
@@ -76,7 +81,8 @@
       "code":"3932",
       "category":"2",
       "jiaji":"1",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"乐水小区需搬家工数名",
       "address":"威海市环翠区乐水小区5号楼405号",
@@ -89,7 +95,8 @@
       "code":"6898",
       "category":"2",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"永田小区四居室搬家",
       "address":"威海市环翠区永田小区1号楼105号",
@@ -102,7 +109,8 @@
       "code":"7777",
       "category":"2",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"顺利小区二居室搬家",
       "address":"威海市环翠区顺利小区10号楼805号",
@@ -115,7 +123,8 @@
       "code":"0000",
       "category":"2",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   
   
@@ -131,7 +140,8 @@
       "code":"1556",
       "category":"3",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"乐视电视机维修",
       "address":"威海市环翠区永天小区8号楼805号",
@@ -144,7 +154,8 @@
       "code":"1008",
       "category":"3",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"空调维修",
       "address":"威海市环翠区永天小区5号楼1005号",
@@ -157,7 +168,8 @@
       "code":"1888",
       "category":"3",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"弘基电脑系统重装",
       "address":"威海市环翠区永丰小区1号楼505号",
@@ -170,7 +182,8 @@
       "code":"1999",
       "category":"3",
       "jiaji":"0",
-      "status":"2"
+      "status":"2",
+      "JieDanphone":"18518989539"
   },
   {"type":"急需宽带安装",
       "address":"威海市环翠区顺利小区1号楼1005号",
@@ -183,7 +196,8 @@
       "code":"8888",
       "category":"3",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   
   },
   
@@ -199,7 +213,8 @@
       "code":"6666",
       "category":"4",
       "jiaji":"1",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"三年级小学生辅导数学",
       "address":"威海市环翠区永天小区7号楼505号",
@@ -212,7 +227,8 @@
       "code":"5555",
       "category":"4",
       "jiaji":"0",
-      "status":"1"
+      "status":"1",
+      "JieDanphone":"18518989539"
   },
   {"type":"初四学生中考辅导",
       "address":"威海市环翠区顺利小区7号楼1005号",
@@ -225,7 +241,8 @@
       "code":"0000",
       "category":"4",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"高一学生辅导英语",
       "address":"威海市环翠区永天小区7号楼905号",
@@ -238,7 +255,8 @@
       "code":"5456",
       "category":"4",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
   {"type":"高二辅导数学",
       "address":"威海市环翠区永天小区10号楼105号",
@@ -251,7 +269,8 @@
       "code":"1232",
       "category":"4",
       "jiaji":"0",
-      "status":"0"
+      "status":"0",
+      "JieDanphone":""
   },
 
 
@@ -266,7 +285,8 @@
     "code":"1232",
     "category":"4",
     "jiaji":"0",
-    "status":"0"
+    "status":"0",
+    "JieDanphone":""
 },
 
 {
@@ -284,7 +304,8 @@
 	"status": "1",
     "endName": "李洪生",
     "moneynum":"20元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":"18518989539"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼302室",
 	"categoryType": "书籍及其他物品",
@@ -300,7 +321,8 @@
 	"status": "2",
     "endName": "李生",
     "moneynum":"20元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":"18518989539"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼442室",
 	"categoryType": "生活及其他物品",
@@ -316,7 +338,8 @@
 	"status": "1",
     "endName": "李样",
     "moneynum":"10元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":"18518989539"
 }, {
 	"endAddress": "理工大东校区1号楼教学楼502室",
 	"categoryType": "食品及其他物品",
@@ -332,7 +355,8 @@
 	"status": "0",
     "endName": "李洪",
     "moneynum":"15元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":""
 }, {
 	"endAddress": "理工大东校区8号楼教学楼532室",
 	"categoryType": "水及其他物品",
@@ -348,7 +372,8 @@
 	"status": "0",
     "endName": "城生",
     "moneynum":"25元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":""
 }, {
 	"endAddress": "理工大东校区7号楼教学楼102室",
 	"categoryType": "包袱及其他物品",
@@ -364,7 +389,8 @@
 	"status": "2",
     "endName": "李光",
     "moneynum":"25元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":"18518989539"
 }, {
 	"endAddress": "理工大东校区11号宿舍楼502",
 	"categoryType": "餐饮及其他物品",
@@ -380,7 +406,8 @@
 	"status": "0",
     "endName": "李暖",
     "moneynum":"10元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":""
 }, {
 	"endAddress": "理工大东校区10号楼教学楼502室",
 	"categoryType": "餐饮及其他物品",
@@ -396,7 +423,8 @@
 	"status": "1",
     "endName": "白天洋",
     "moneynum":"30元",
-    "category":"5"
+    "category":"5",
+    "JieDanphone":"18518989539"
 },
 
 
@@ -415,7 +443,8 @@
     "moneyType": "先付定金，中间给一期，最后尾款",
     "moneynum":"10w",
     "category":"6",
-    "workJingyan":"4年前端经验"
+    "workJingyan":"4年前端经验",
+    "JieDanphone":""
 },
 
 {
@@ -432,7 +461,8 @@
     "moneyType": "项目完成一半付一半",
     "moneynum":"8w",
     "category":"6",
-    "workJingyan":"5年java经验"
+    "workJingyan":"5年java经验",
+    "JieDanphone":""
 },
 
 {
@@ -449,7 +479,8 @@
     "moneyType": "先付定金，中间给一期，最后尾款",
     "moneynum":"15w",
     "category":"6",
-    "workJingyan":"5年安卓经验"
+    "workJingyan":"5年安卓经验",
+    "JieDanphone":""
 },
 
 {
@@ -466,7 +497,8 @@
     "moneyType": "先付定金，中间给一期，最后尾款",
     "moneynum":"7w",
     "category":"6",
-    "workJingyan":"6年前端经验"
+    "workJingyan":"6年前端经验",
+    "JieDanphone":""
 },
 
 
@@ -483,7 +515,8 @@
     "gameInfo": "钻石往上上一个段位到星耀",
     "moneynum":"500元",
     "category":"7",
-    "moneyType":"段位上升之后付全款"
+    "moneyType":"段位上升之后付全款",
+    "JieDanphone":"18518989539"
 },
 
 {
@@ -498,7 +531,8 @@
     "gameInfo": "白银到钻石",
     "moneynum":"1000元",
     "category":"7",
-    "moneyType":"黄金给200白金500钻石1000"
+    "moneyType":"黄金给200白金500钻石1000",
+    "JieDanphone":""
 },
 
 {
@@ -513,7 +547,8 @@
     "gameInfo": "恕瑞玛钻石到王者",
     "moneynum":"2000元",
     "category":"7",
-    "moneyType":"到大师给1000王者2000"
+    "moneyType":"到大师给1000王者2000",
+    "JieDanphone":""
 },
 
 {
@@ -528,7 +563,8 @@
     "gameInfo": "三星王者到一星王者",
     "moneynum":"600元",
     "category":"7",
-    "moneyType":"段位上升给全款"
+    "moneyType":"段位上升给全款",
+    "JieDanphone":""
 },
 
 {
@@ -543,7 +579,8 @@
     "gameInfo": "钻石五到钻一",
     "moneynum":"800元",
     "category":"7",
-    "moneyType":"段位上升给全款"
+    "moneyType":"段位上升给全款",
+    "JieDanphone":"18518989539"
 }
 
 
