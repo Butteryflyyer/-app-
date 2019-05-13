@@ -10,10 +10,10 @@
     "code":"2065",
     "category":"1",
     "jiaji":"0",
-    "status":"0",
+    "status":"1",
     "objectId":"0x239843898923112343",
     "typeName":"保洁",
-    "JieDanphone":""
+    "JieDanphone":"18518989539"
    
 },
 {   "type":"需要帮忙带些青菜",
@@ -107,10 +107,10 @@
     "code":"2022",
     "category":"2",
     "jiaji":"0",
-    "status":"0",
+    "status":"2",
     "objectId":"0x239843898923112312",
     "typeName":"搬家",
-    "JieDanphone":""
+    "JieDanphone":"18518989539"
 },
 {"type":"需要阿姨小时工打扫厕所",
     "address":"威海市环翠区乐天小区12号楼1201号",
@@ -123,10 +123,10 @@
     "code":"6666",
     "category":"1",
     "jiaji":"1",
-    "status":"1",
+    "status":"2",
     "objectId":"0x239843898923112344",
     "typeName":"保洁",
-    "JieDanphone":""
+    "JieDanphone":"18518989539"
     },
     {"type":"三居室需要打扫保洁",
         "address":"威海市环翠区百家小区1号楼501号",
@@ -139,10 +139,10 @@
         "code":"8888",
          "category":"1",
          "jiaji":"1",
-         "status":"0",
+         "status":"1",
          "objectId":"0x239843898923112391",
          "typeName":"保洁",
-         "JieDanphone":""
+         "JieDanphone":"18518989539"
     },
     {"type":"天启小区需要打扫11号楼楼梯",
             "address":"威海市环翠区天启小区11号楼",
