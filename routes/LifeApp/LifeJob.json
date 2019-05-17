@@ -3,7 +3,7 @@
     "address":"威海市环翠区百家小区11号楼101号",
     "name":"李先生",
     "phone":"18518969435",
-    "endtime":"2019-5-12 12:00",
+    "endtime":"2019-5-15 12:00",
     "moneytype":"日结",
     "moneynum":"50/小时",
     "yaoqiu":"需要干活勤快有责任心的阿姨，希望能把家里都认真打扫一遍",
@@ -13,14 +13,15 @@
     "status":"1",
     "objectId":"0x239843898923112343",
     "typeName":"保洁",
-    "JieDanphone":"18518989539"
+    "JieDanphone":"18518989539",
+    "firetime":"2019-5-10 10:00"
    
 },
 {   "type":"需要帮忙带些青菜",
     "address":"威海市环翠区百家小区8号楼101号",
     "name":"刘女士",
     "phone":"18599969435",
-    "endtime":"2019-5-14 12:00",
+    "endtime":"2019-5-15 12:00",
     "moneytype":"立结",
     "moneynum":"10元",
     "yaoqiu":"需要白菜，萝卜，玉米，鸡蛋，肉，大米",
@@ -30,13 +31,14 @@
     "status":"0",
     "objectId":"0x239843898923112332",
     "typeName":"买菜",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-11 10:00"
 },
 {   "type":"需要帮忙带包大米40斤",
     "address":"威海市环翠区乐天小区10号楼110号",
     "name":"白女士",
     "phone":"18511169435",
-    "endtime":"2019-5-12 12:00",
+    "endtime":"2019-5-15 17:00",
     "moneytype":"立结",
     "moneynum":"20元",
     "yaoqiu":"40斤大米一袋，中午做饭要用。",
@@ -46,7 +48,8 @@
     "status":"2",
     "objectId":"0x239843898923112300",
     "typeName":"买菜",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-11 10:00"
 },
 {   "type":"需要帮忙带20个馒头",
     "address":"威海市环翠区乐天小区9号楼120号",
@@ -62,7 +65,8 @@
     "status":"0",
     "objectId":"0x239843898923112311",
     "typeName":"买菜",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-13 8:00"
 },
 {   "type":"帮忙代取快递",
     "address":"威海市环翠区王舍小区1号楼901号",
@@ -78,13 +82,14 @@
     "status":"0",
     "objectId":"0x239843898923112399",
     "typeName":"快递",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-12 18:00"
 },
 {   "type":"帮忙代取快递",
     "address":"威海市环翠区乐天小区1号楼901号",
     "name":"李女士",
     "phone":"13588876432",
-    "endtime":"2019-5-15 12:00",
+    "endtime":"2019-5-18 12:00",
     "moneytype":"立结",
     "moneynum":"10元",
     "yaoqiu":"易碎物品请小心拿取。",
@@ -94,13 +99,14 @@
     "status":"1",
     "objectId":"0x239843898923112321",
     "typeName":"快递",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-13 17:00"
 },
 {   "type":"急需要搬家服务",
     "address":"威海市环翠区王舍区10号楼201号",
     "name":"程先生",
     "phone":"18599969435",
-    "endtime":"2019-5-14 12:00",
+    "endtime":"2019-5-17 17:00",
     "moneytype":"日结",
     "moneynum":"300元",
     "yaoqiu":"需要从王舍小区搬到百家小区，都有电梯，需要手脚灵活的",
@@ -110,13 +116,14 @@
     "status":"2",
     "objectId":"0x239843898923112312",
     "typeName":"搬家",
-    "JieDanphone":"18518989539"
+    "JieDanphone":"18518989539",
+    "firetime":"2019-5-14 10:00"
 },
 {"type":"需要阿姨小时工打扫厕所",
     "address":"威海市环翠区乐天小区12号楼1201号",
     "name":"刘先生",
     "phone":"18518000435",
-    "endtime":"2019-5-14 10:00",
+    "endtime":"2019-5-18 10:00",
     "moneytype":"日结",
     "moneynum":"80/小时",
     "yaoqiu":"要求是一定要有责任心，会有人监工的。",
@@ -126,13 +133,14 @@
     "status":"2",
     "objectId":"0x239843898923112344",
     "typeName":"保洁",
-    "JieDanphone":"18518989539"
+    "JieDanphone":"18518989539",
+    "firetime":"2019-5-15 10:00"
     },
     {"type":"三居室需要打扫保洁",
         "address":"威海市环翠区百家小区1号楼501号",
         "name":"黄女士",
         "phone":"13567654333",
-        "endtime":"2019-5-14 9:00",
+        "endtime":"2019-5-20 9:00",
         "moneytype":"日结",
         "moneynum":"70/小时",
         "yaoqiu":"钱不是问题，主要的是打扫干净，年龄40-50岁的保洁阿姨。",
@@ -142,13 +150,14 @@
          "status":"1",
          "objectId":"0x239843898923112391",
          "typeName":"保洁",
-         "JieDanphone":"18518989539"
+         "JieDanphone":"18518989539",
+         "firetime":"2019-5-16 10:00"
     },
     {"type":"天启小区需要打扫11号楼楼梯",
             "address":"威海市环翠区天启小区11号楼",
             "name":"邢先生 天启小区物业",
             "phone":"18518960005",
-            "endtime":"2019-5-16 11:00",
+            "endtime":"2019-5-18 11:00",
             "moneytype":"日结",
             "moneynum":"50/小时",
             "yaoqiu":"需要拿拖把扫把从打扫24层楼，希望年轻的保洁，体力充足",
@@ -158,13 +167,14 @@
             "status":"0",
             "objectId":"0x239843898923112318",
             "typeName":"保洁",
-            "JieDanphone":""
+            "JieDanphone":"",
+            "firetime":"2019-5-16 10:00"
     },
     {"type":"四居室急招人打扫",
         "address":"威海市环翠区永田小区8号楼1501",
         "name":"郭先生",
         "phone":"18518776534",
-        "endtime":"2019-5-17 16：00",
+        "endtime":"2019-5-19 16：00",
         "moneytype":"日结",
         "moneynum":"60/小时",
         "yaoqiu":"钱不是问题，主要是打扫干净，可以多给小费",
@@ -174,7 +184,8 @@
         "status":"0",
         "objectId":"0x239843898923112366",
         "typeName":"保洁",
-        "JieDanphone":""
+        "JieDanphone":"",
+        "firetime":"2019-5-14 10:00"
 },
 
 
@@ -182,7 +193,7 @@
     "address":"威海市环翠区永天小区10号楼705号",
     "name":"白先生",
     "phone":"18518000534",
-    "endtime":"2019-5-14 17:00",
+    "endtime":"2019-5-18 17:00",
     "moneytype":"搬完立结账",
     "moneynum":"300元",
     "yaoqiu":"从永天小区搬到天启小区，距离4公里，特别注意永天小区没有电梯，希望能来几个体力好的",
@@ -192,13 +203,14 @@
     "status":"1",
     "objectId":"0x239843898923112323",
     "typeName":"搬家",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-15 10:00"
 },
 {"type":"乐水小区需搬家工数名",
     "address":"威海市环翠区乐水小区5号楼405号",
     "name":"王先生",
     "phone":"18518345534",
-    "endtime":"2019-5-16 16:00",
+    "endtime":"2019-5-18 16:00",
     "moneytype":"搬完立结",
     "moneynum":"400元",
     "yaoqiu":"屋里有贵重物品，搬完可加小费",
@@ -208,13 +220,14 @@
     "status":"0",
     "objectId":"0x239843898923112324",
     "typeName":"搬家",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-14 10:00"
 },
 {"type":"永田小区四居室搬家",
     "address":"威海市环翠区永田小区1号楼105号",
     "name":"王先生",
     "phone":"18500045534",
-    "endtime":"2019-5-14 20:00",
+    "endtime":"2019-5-19 20:00",
     "moneytype":"搬完立结",
     "moneynum":"350元",
     "yaoqiu":"一楼住户，急需搬家，急需接单",
@@ -224,13 +237,14 @@
     "status":"1",
     "objectId":"0x239843898923112338",
     "typeName":"搬家",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-16 10:00"
 },
 {"type":"顺利小区二居室搬家",
     "address":"威海市环翠区顺利小区10号楼805号",
     "name":"王先生",
     "phone":"18518345534",
-    "endtime":"2019-5-17 14:00",
+    "endtime":"2019-5-18 14:00",
     "moneytype":"搬完立结",
     "moneynum":"350元",
     "yaoqiu":"小区都有电梯，电话随时有人接",
@@ -240,7 +254,8 @@
     "status":"0",
     "objectId":"0x239843898923112333",
     "typeName":"搬家",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-13 10:00"
 },
 
 
@@ -249,7 +264,7 @@
     "address":"威海市环翠区永田小区8号楼105号",
     "name":"李先生",
     "phone":"18588845534",
-    "endtime":"2019-5-13 11:00",
+    "endtime":"2019-5-19 11:00",
     "moneytype":"修完结账",
     "moneynum":"面议",
     "yaoqiu":"冰箱线路接触不凉，制冷系统出问题，希望来熟练维修工。",
@@ -259,13 +274,14 @@
     "status":"2",
     "objectId":"0x239843898923112393",
     "typeName":"维修",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-15 10:00"
 },
 {"type":"乐视电视机维修",
     "address":"威海市环翠区永天小区8号楼805号",
     "name":"刘先生",
     "phone":"18586445534",
-    "endtime":"2019-5-18 13:00",
+    "endtime":"2019-5-19 13:00",
     "moneytype":"修完结账",
     "moneynum":"500元",
     "yaoqiu":"电视信号不稳定，经常死机，希望可以来人帮忙解决。费用500",
@@ -275,13 +291,14 @@
     "status":"0",
     "objectId":"0x239843898923112325",
     "typeName":"维修",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-14 10:00"
 },
 {"type":"空调维修",
     "address":"威海市环翠区永天小区5号楼1005号",
     "name":"白先生",
     "phone":"18586445000",
-    "endtime":"2019-5-118 15:00",
+    "endtime":"2019-5-19 15:00",
     "moneytype":"修完结账",
     "moneynum":"200元",
     "yaoqiu":"空调制冷系统问题，遥控器失效。",
@@ -291,13 +308,14 @@
     "status":"0",
     "objectId":"0x239843898923112387",
     "typeName":"维修",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "firetime":"2019-5-15 10:00"
 },
 {"type":"弘基电脑系统重装",
     "address":"威海市环翠区永丰小区1号楼505号",
     "name":"王女士",
     "phone":"18586000534",
-    "endtime":"2019-5-13",
+    "endtime":"2019-5-19 13:00",
     "moneytype":"立结",
     "moneynum":"100元",
     "yaoqiu":"电脑太卡，需要重装系统",
@@ -306,13 +324,15 @@
     "jiaji":"0",
     "status":"2",
     "typeName":"维修",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "objectId":"0x239843898923112999",
+    "firetime":"2019-5-15 10:00"
 },
 {"type":"急需宽带安装",
     "address":"威海市环翠区顺利小区1号楼1005号",
     "name":"李女士",
     "phone":"18586987654",
-    "endtime":"2019-5-18",
+    "endtime":"2019-5-18 19:00",
     "moneytype":"立结",
     "moneynum":"1000元",
     "yaoqiu":"需要办理2年时间宽带，速度来人接单",
@@ -321,7 +341,9 @@
     "jiaji":"0",
     "status":"0",
     "typeName":"维修",
-    "JieDanphone":""
+    "JieDanphone":"",
+    "objectId":"0x239843898923112000",
+    "firetime":"2019-5-10 10:00"
 
 }
 
