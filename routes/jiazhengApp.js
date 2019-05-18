@@ -159,6 +159,16 @@ fs.writeFile(__dirname + '/jisudaApp/jisudaMyfireList.json',dic.data, function(e
 })
 
 });
+
+
+//下单接口
+router.post('/jianzhiTongFire', function(req, res, next) {
+  var dic = req.body;
+      res.send('success');
+ 
+})
+
+
 //评价
 router.post('/pingjia', function(req, res, next) {
   var dic = req.body;
