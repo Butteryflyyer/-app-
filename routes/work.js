@@ -65,7 +65,7 @@ router.post('/getworklist', function(req, res, next) {
       }
     })
   }else{
-    res.send(nil);
+    res.send([]);
   }
 
 
