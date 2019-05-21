@@ -54,15 +54,20 @@ router.post('/loginJianzhiBoss', function(req, res, next) {
 //获取工作列表
 router.post('/getworklist', function(req, res, next) {
   var dic = req.body;
-fs.readFile(__dirname + '/workApp/workList.json', function(err, data){
-  if(!err){
-    // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
-     console.log(data);
-      res.send(data);
+  if(dic.city == "北京"){
+    fs.readFile(__dirname + '/workApp/workList.json', function(err, data){
+      if(!err){
+        // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
+         console.log(data);
+          res.send(data);
+      }else{
+          throw err;
+      }
+    })
   }else{
-      throw err;
+    res.send(nil);
   }
-})
+
 
 });
 //往工作列表写入数据
