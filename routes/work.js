@@ -54,7 +54,7 @@ router.post('/loginJianzhiBoss', function(req, res, next) {
 //获取工作列表
 router.post('/getworklist', function(req, res, next) {
   var dic = req.body;
-  if(dic.city == "北京"){
+  if(dic.city == "北京市"){
     fs.readFile(__dirname + '/workApp/workList.json', function(err, data){
       if(!err){
         // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
