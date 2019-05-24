@@ -15,6 +15,7 @@ var songnaiAppRouter = require('./routes/songnaiApp');
 var studentJianzhiRouter = require('./routes/studentJianzhi');
 var lifeAppRouter = require("./routes/lifeApp");
 var BangAppRouter = require("./routes/BangJianzhiApp");
+var loveBangAppRouter = require("./routes/loveBangApp");
 var app = express();
 
 
@@ -39,6 +40,7 @@ app.use('/songnaiApp',songnaiAppRouter);
 app.use('/studentJianzhi',studentJianzhiRouter);
 app.use('/lifeApp',lifeAppRouter);
 app.use('/BangJianzhiApp',BangAppRouter);
+app.use('/loveBangApp',loveBangAppRouter);
 
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
