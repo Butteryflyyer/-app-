@@ -4,7 +4,7 @@
 	"startName": "刘天华",
 	"endPhone": "18718977655",
 	"isJiaji": "1",
-	"studentFire": "1",
+	"studentFire": "0",
 	"startPhone": "18618989764",
 	"code": "4321",
 	"specialDes": "着急送达，希望能快些到达",
@@ -20,7 +20,7 @@
 	"startName": "李华",
 	"endPhone": "18788897432",
 	"isJiaji": "0",
-	"studentFire": "1",
+	"studentFire": "0",
 	"startPhone": "18619998764",
 	"code": "4312",
 	"specialDes": "",
@@ -36,7 +36,7 @@
 	"startName": "王秀",
 	"endPhone": "18780007432",
 	"isJiaji": "0",
-	"studentFire": "1",
+	"studentFire": "0",
 	"startPhone": "18619990004",
 	"code": "9432",
 	"specialDes": "",
@@ -52,7 +52,7 @@
 	"startName": "刘美",
 	"endPhone": "18718977333",
 	"isJiaji": "0",
-	"studentFire": "1",
+	"studentFire": "0",
 	"startPhone": "18618989744",
 	"code": "3334",
 	"specialDes": "",
@@ -72,7 +72,7 @@
 	"code": "0014",
 	"baomingAddress": "大学生信息中心1105室",
 	"orderStyle": "1",
-	"studentFire": "0",
+	"studentFire": "1",
 	"status": "1",
 	"fuzePhone": "18618989743"
 }, {
@@ -85,7 +85,7 @@
 	"code": "5004",
 	"baomingAddress": "大学生信息中心805室",
 	"orderStyle": "1",
-	"studentFire": "0",
+	"studentFire": "1",
 	"status": "1",
 	"fuzePhone": "18610089743"
 }, {
@@ -98,7 +98,7 @@
 	"code": "1234",
 	"baomingAddress": "大学生信息中心105室",
 	"orderStyle": "1",
-	"studentFire": "0",
+	"studentFire": "1",
 	"status": "0",
 	"fuzePhone": "18616689743"
 }, {
@@ -111,7 +111,7 @@
 	"code": "5114",
 	"baomingAddress": "大学生信息中心805室",
 	"orderStyle": "2",
-	"studentFire": "0",
+	"studentFire": "1",
 	"status": "1",
 	"fuzePhone": "18616689003"
 }, {
@@ -124,32 +124,36 @@
 	"code": "5200",
 	"baomingAddress": "大学生信息中心1005室",
 	"orderStyle": "2",
-	"studentFire": "0",
+	"studentFire": "1",
 	"status": "0",
 	"fuzePhone": "18616559003"
 }, {
 	"status": "0",
 	"category": "待上体育课",
 	"banji": "电气学院自动化17级四班",
+	"fabuTime": "2019-5-28 12:00",
 	"phone": "18586911186",
 	"code": "5456",
 	"teachName": "黄学兵",
 	"daikeTime": "2019-4-12",
-	"studentFire": "1",
+	"studentFire": "0",
 	"MoneyNum": "30元",
 	"orderStyle": "3",
+	"daikekemu":"体育课",
 	"name": "李百花"
 }, {
 	"status": "0",
 	"category": "代上高等数学",
+	"fabuTime": "2019-5-29 12:00",
 	"banji": "法学院行政管理15级四班",
 	"phone": "13654623546",
 	"code": "5234",
 	"teachName": "李晓红",
 	"daikeTime": "2019-4-13",
-	"studentFire": "1",
+	"studentFire": "0",
 	"MoneyNum": "56元",
 	"orderStyle": "3",
+	"daikekemu":"高等数学",
 	"name": "李继玲"
 }, {
 	"status": "0",
@@ -159,7 +163,7 @@
 	"code": "9934",
 	"activetime": "2019-4-20 15:30",
 	"MoneyNum": "30元",
-	"studentFire": "1",
+	"studentFire": "0",
 	"activename": "李继同学",
 	"orderStyle": "4"
 }, {
@@ -170,7 +174,7 @@
 	"code": "9934",
 	"MoneyNumGet": "40元",
 	"activetime": "2019-4-21 14:30",
-	"studentFire": "1",
+	"studentFire": "0",
 	"activename": "黄历同学",
 	"orderStyle": "4"
 }, {
@@ -181,7 +185,7 @@
 	"code": "9934",
 	"MoneyNumGet": "20元",
 	"activetime": "2019-4-20 14:30",
-	"studentFire": "1",
+	"studentFire": "0",
 	"activename": "郭洋同学",
 	"orderStyle": "4"
 }, {
@@ -209,6 +213,6 @@
 	"MoneyNumGet": "60元",
 	"otherPhone": "18610043242",
 	"workNeirong": "考场外提供试题答案，微信传入",
-	"studentFire": "1",
+	"studentFire": "0",
 	"orderStyle": "5"
 }]
