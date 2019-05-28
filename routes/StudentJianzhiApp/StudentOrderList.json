@@ -13,7 +13,8 @@
 	"startAddress": "理工大西校区11号宿舍楼楼1101宿舍",
 	"startTime": "2019-5-30 10:20",
 	"status": "2",
-	"endName": "李洪生"
+	"endName": "李洪生",
+	"jieDanPhone":"13561640121"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼302室",
 	"category": "送书籍及其他物品",
@@ -29,7 +30,8 @@
 	"startAddress": "理工大西校区12号宿舍楼楼101宿舍",
 	"startTime": "2019-5-30 8:20",
 	"status": "0",
-	"endName": "李生"
+	"endName": "李生",
+	"jieDanPhone":""
 }, {
 	"endAddress": "理工大东校区2号楼教学楼302室",
 	"category": "送水及其他物品",
@@ -45,7 +47,8 @@
 	"startAddress": "理工大西校区12号宿舍楼楼101宿舍",
 	"startTime": "2019-5-29 8:20",
 	"status": "0",
-	"endName": "鸿升"
+	"endName": "鸿升",
+	"jieDanPhone":""
 }, {
 	"endAddress": "理工大东校区2号楼教学楼442室",
 	"category": "送生活及其他物品",
@@ -61,7 +64,8 @@
 	"startAddress": "理工大西校区12号宿舍楼楼111宿舍",
 	"startTime": "2019-5-31 10:50",
 	"status": "0",
-	"endName": "李样"
+	"endName": "李样",
+	"jieDanPhone":""
 }, {
 	"workTime": "周一周二中午11点到1点",
 	"fabuTime": "2019-5-29 12:15",
@@ -74,7 +78,8 @@
 	"orderStyle": "1",
 	"studentFire": "1",
 	"status": "1",
-	"fuzePhone": "18618989743"
+	"fuzePhone": "18618989743",
+	"jieDanPhone":"13561640121"
 }, {
 	"workTime": "周四周五中午11点到12点",
 	"fabuTime": "2019-5-29 15:15",
@@ -87,7 +92,8 @@
 	"orderStyle": "1",
 	"studentFire": "1",
 	"status": "1",
-	"fuzePhone": "18610089743"
+	"fuzePhone": "18610089743",
+	"jieDanPhone":"13561640121"
 }, {
 	"workTime": "周四周五下午5点到7点",
 	"fabuTime": "2019-5-25 12:00",
@@ -100,7 +106,8 @@
 	"orderStyle": "1",
 	"studentFire": "1",
 	"status": "0",
-	"fuzePhone": "18616689743"
+	"fuzePhone": "18616689743",
+	"jieDanPhone":""
 }, {
 	"workTime": "周六周天下午5点到7点",
 	"fabuTime": "2019-5-26 12:00",
@@ -113,7 +120,8 @@
 	"orderStyle": "2",
 	"studentFire": "1",
 	"status": "1",
-	"fuzePhone": "18616689003"
+	"fuzePhone": "18616689003",
+	"jieDanPhone":"13561640121"
 }, {
 	"workTime": "周六下午4点之后",
 	"fabuTime": "2019-5-26 15:00",
@@ -126,7 +134,8 @@
 	"orderStyle": "2",
 	"studentFire": "1",
 	"status": "0",
-	"fuzePhone": "18616559003"
+	"fuzePhone": "18616559003",
+	"jieDanPhone":""
 }, {
 	"status": "0",
 	"category": "待上体育课",
@@ -140,7 +149,8 @@
 	"MoneyNum": "30元",
 	"orderStyle": "3",
 	"daikekemu":"体育课",
-	"name": "李百花"
+	"name": "李百花",
+	"jieDanPhone":""
 }, {
 	"status": "0",
 	"category": "代上高等数学",
@@ -154,7 +164,8 @@
 	"MoneyNum": "56元",
 	"orderStyle": "3",
 	"daikekemu":"高等数学",
-	"name": "李继玲"
+	"name": "李继玲",
+	"jieDanPhone":""
 }, {
 	"status": "0",
 	"category": "学院篮球赛外援",
@@ -165,7 +176,8 @@
 	"MoneyNum": "30元",
 	"studentFire": "0",
 	"activename": "李继同学",
-	"orderStyle": "4"
+	"orderStyle": "4",
+	"jieDanPhone":""
 }, {
 	"status": "0",
 	"category": "班级足球赛外援",
@@ -176,7 +188,8 @@
 	"activetime": "2019-5-29 14:30",
 	"studentFire": "0",
 	"activename": "黄历同学",
-	"orderStyle": "4"
+	"orderStyle": "4",
+	"jieDanPhone":""
 }, {
 	"status": "0",
 	"category": "专业乒乓球外援",
@@ -187,7 +200,8 @@
 	"activetime": "2019-5-29 14:30",
 	"studentFire": "0",
 	"activename": "郭洋同学",
-	"orderStyle": "4"
+	"orderStyle": "4",
+	"jieDanPhone":""
 }, {
 	"status": "2",
 	"category": "学生考场监考",
@@ -196,7 +210,8 @@
 	"otherPhone": "18618968432",
 	"workNeirong": "考场监考大一英语考试",
 	"studentFire": "1",
-	"orderStyle": "5"
+	"orderStyle": "5",
+	"jieDanPhone":"13561640121"
 }, {
 	"status": "0",
 	"category": "模电考试场外助攻",
@@ -205,7 +220,8 @@
 	"otherPhone": "18617643242",
 	"workNeirong": "考场外提供试题答案",
 	"studentFire": "1",
-	"orderStyle": "5"
+	"orderStyle": "5",
+	"jieDanPhone":""
 }, {
 	"status": "0",
 	"category": "高数考试场外助攻",
@@ -214,5 +230,6 @@
 	"otherPhone": "18610043242",
 	"workNeirong": "考场外提供试题答案，微信传入",
 	"studentFire": "0",
-	"orderStyle": "5"
+	"orderStyle": "5",
+	"jieDanPhone":""
 }]
