@@ -11,7 +11,8 @@
 	"startAddress": "理工大西校区11号宿舍楼楼1101宿舍",
 	"startTime": "2019-5-23 10:20",
 	"status": "1",
-	"endName": "李洪生"
+    "endName": "李洪生",
+    "firePhone":"18518989539"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼302室",
 	"category": "书籍及其他物品",
@@ -25,7 +26,8 @@
 	"startAddress": "理工大西校区12号宿舍楼楼101宿舍",
 	"startTime": "2019-5-20 8:20",
 	"status": "2",
-	"endName": "李生"
+    "endName": "李生",
+    "firePhone":"18518989539"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼442室",
 	"category": "生活及其他物品",
@@ -39,7 +41,8 @@
 	"startAddress": "理工大西校区12号宿舍楼楼111宿舍",
 	"startTime": "2019-5-24 10:50",
 	"status": "1",
-	"endName": "李样"
+    "endName": "李样",
+    "firePhone":"18518989539"
 }, {
 	"endAddress": "理工大东校区1号楼教学楼502室",
 	"category": "食品及其他物品",
@@ -53,7 +56,8 @@
 	"startAddress": "理工大西校区5号宿舍楼楼111宿舍",
 	"startTime": "2019-5-24 8:20",
 	"status": "0",
-	"endName": "李洪"
+    "endName": "李洪",
+    "firePhone":""
 }, {
 	"endAddress": "理工大东校区8号楼教学楼532室",
 	"category": "水及其他物品",
@@ -67,7 +71,8 @@
 	"startAddress": "理工大西校区8号宿舍楼楼2101宿舍",
 	"startTime": "2019-5-25 10:20",
 	"status": "0",
-	"endName": "城生"
+    "endName": "城生",
+    "firePhone":""
 }, {
 	"endAddress": "理工大东校区7号楼教学楼102室",
 	"category": "包袱及其他物品",
@@ -81,7 +86,8 @@
 	"startAddress": "理工大西校区2号宿舍楼楼101宿舍",
 	"startTime": "2019-5-22 8:20",
 	"status": "0",
-	"endName": "李光"
+    "endName": "李光",
+    "firePhone":""
 }, {
 	"endAddress": "理工大东校区11号宿舍楼502",
 	"category": "餐饮及其他物品",
@@ -95,7 +101,8 @@
 	"startAddress": "理工大西校区1号教学楼110室",
 	"startTime": "2019-5-22 8:20",
 	"status": "0",
-	"endName": "李暖"
+    "endName": "李暖",
+    "firePhone":""
 }, {
 	"endAddress": "理工大东校区10号楼教学楼502室",
 	"category": "餐饮及其他物品",
@@ -109,7 +116,8 @@
 	"startAddress": "理工大西校区12号教学楼101室",
 	"startTime": "2019-5-24 10:20",
 	"status": "0",
-	"endName": "白天洋"
+    "endName": "白天洋",
+    "firePhone":""
 }, {
 	"endAddress": "理工大东校区2号楼教学楼502室",
 	"category": "餐饮及其他物品",
@@ -123,7 +131,8 @@
 	"startAddress": "理工大西校区1号宿舍楼楼101宿舍",
 	"startTime": "2019-5-23 10:20",
 	"status": "0",
-	"endName": "李生"
+    "endName": "李生",
+    "firePhone":""
 }, {
 	"endAddress": "理工大东校区8号楼教学楼502室",
 	"category": "餐饮及其他物品",
@@ -137,5 +146,6 @@
 	"startAddress": "理工大西校区12号宿舍楼楼101宿舍",
 	"startTime": "2019-5-23 10:20",
 	"status": "0",
-	"endName": "李天意"
+    "endName": "李天意",
+    "firePhone":""
 }]
