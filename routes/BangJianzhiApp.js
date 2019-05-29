@@ -54,7 +54,7 @@ router.post('/loginBangJianzhiApp', function(req, res, next) {
 //获取订单大厅
 router.post('/getBangorder', function(req, res, next) {
   var dic = req.body;
-fs.readFile(__dirname + '/LifeApp/BangLifeApp.json', function(err, data){
+fs.readFile(__dirname + '/LifeApp/LifeJob.json', function(err, data){
   if(!err){
     // res.writeHead(200, {"Content-Type": "text/json;charset=UTF-8"});
      console.log(data);
