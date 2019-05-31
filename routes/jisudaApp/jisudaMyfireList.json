@@ -6,7 +6,7 @@
 	"endName": "李洪生",
 	"startPhone": "18618989764",
 	"code": "667788",
-	"specialDes": "着急送达，希望能快些到达",
+	"specialDes": "给女朋友带的饭，着急送，希望能准时到达",
 	"endTime": "2019-5-27 12:00",
 	"isJiaji": "1",
 	"startAddress": "理工大西校区11号宿舍楼楼1101宿舍",
@@ -15,7 +15,9 @@
     "jiedanName":"李达",
     "jiedanPhone":"18718989765",
 	"jiedanScore":"10",
-	"firePhone":"18518989539"
+	"firePhone":"18518989539",
+	"distance":"约2000米",
+	"MoneyNum":"20元/货到付款"
 }, {
 	"status": "1",
 	"category": "书籍及其他物品",
@@ -24,26 +26,28 @@
 	"endName": "李生",
 	"startPhone": "18619998764",
 	"code": "888888",
-	"specialDes": "",
+	"specialDes": "上课送课本，希望可以尽快接单，准时来拿",
 	"endTime": "2019-5-28 12:00",
 	"isJiaji": "0",
 	"startAddress": "理工大西校区12号宿舍楼楼101宿舍",
 	"startTime": "2019-5-28 8:20",
-    "endAddress": "理工大东校区2号楼教学楼302室",
+    "endAddress": "理工大西校区2号楼教学楼302室",
     "jiedanName":"王辉",
     "jiedanPhone":"18700989765",
 	"jiedanScore":"9",
-	"firePhone":"18518989539"
+	"firePhone":"18518989539",
+	"distance":"约1500米",
+	"MoneyNum":"15元/货到付款"
 },
 {
 	"status": "1",
-	"category": "水及其他物品",
+	"category": "蛋糕及其他物品",
 	"startName": "王秀",
 	"endPhone": "18780007432",
 	"endName": "鸿升",
 	"startPhone": "18619990004",
 	"code": "111111",
-	"specialDes": "",
+	"specialDes": "给男朋友的惊喜，希望可以按时送达。",
 	"endTime": "2019-5-26 12:00",
 	"isJiaji": "0",
 	"startAddress": "理工大西校区12号宿舍楼楼101宿舍",
@@ -52,7 +56,9 @@
     "jiedanName":"王辉",
     "jiedanPhone":"18700989765",
 	"jiedanScore":"9",
-	"firePhone":"18518989539"
+	"firePhone":"18518989539",
+	"distance":"约2500米",
+	"MoneyNum":"25元/货到付款"
 }, {
 	"status": "2",
 	"category": "生活及其他物品",
@@ -61,7 +67,7 @@
 	"endName": "李样",
 	"startPhone": "18618989744",
 	"code": "666666",
-	"specialDes": "",
+	"specialDes": "被褥等物品，有些多，希望来的时候可以骑个电动车，方便送达",
 	"endTime": "2019-5-27 17:50",
 	"isJiaji": "0",
 	"startAddress": "理工大西校区12号宿舍楼楼111宿舍",
@@ -70,16 +76,18 @@
     "jiedanName":"李日",
     "jiedanPhone":"18718989000",
 	"jiedanScore":"10",
-	"firePhone":"18518989539"
+	"firePhone":"18518989539",
+	"distance":"约5500米",
+	"MoneyNum":"35元/货到付款"
 }, {
 	"status": "2",
-	"category": "食品及其他物品",
+	"category": "电子设备及其他物品",
 	"startName": "程华",
 	"endPhone": "18718977115",
 	"endName": "李洪",
 	"startPhone": "18618449764",
 	"code": "123456",
-	"specialDes": "着急送达，希望能快些到达",
+	"specialDes": "贵重电子设备，希望可以安稳送达，来评分高的接单员",
 	"endTime": "2019-5-27 12:00",
 	"isJiaji": "1",
 	"startAddress": "理工大西校区5号宿舍楼楼111宿舍",
@@ -88,5 +96,7 @@
     "jiedanName":"李红色",
     "jiedanPhone":"18799989765",
 	"jiedanScore":"10",
-	"firePhone":"18518989539"
+	"firePhone":"18518989539",
+	"distance":"约4000米",
+	"MoneyNum":"30元/货到付款"
 }]
