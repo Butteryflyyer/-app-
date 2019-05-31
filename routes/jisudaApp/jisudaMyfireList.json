@@ -12,12 +12,13 @@
 	"startAddress": "理工大西校区11号宿舍楼楼1101宿舍",
 	"startTime": "2019-5-27 10:20",
     "endAddress": "理工大东校区1号楼教学楼502室",
-    "jiedanName":"李达",
-    "jiedanPhone":"18718989765",
-	"jiedanScore":"10",
+    "jiedanName":"",
+    "jiedanPhone":"",
+	"jiedanScore":"",
 	"firePhone":"18518989539",
 	"distance":"约2000米",
-	"MoneyNum":"20元/货到付款"
+	"MoneyNum":"20元/货到付款",
+	"type":"1"
 }, {
 	"status": "1",
 	"category": "书籍及其他物品",
@@ -37,7 +38,8 @@
 	"jiedanScore":"9",
 	"firePhone":"18518989539",
 	"distance":"约1500米",
-	"MoneyNum":"15元/货到付款"
+	"MoneyNum":"15元/货到付款",
+	"type":"2"
 },
 {
 	"status": "1",
@@ -58,7 +60,8 @@
 	"jiedanScore":"9",
 	"firePhone":"18518989539",
 	"distance":"约2500米",
-	"MoneyNum":"25元/货到付款"
+	"MoneyNum":"25元/货到付款",
+	"type":"3"
 }, {
 	"status": "2",
 	"category": "生活及其他物品",
@@ -78,7 +81,8 @@
 	"jiedanScore":"10",
 	"firePhone":"18518989539",
 	"distance":"约5500米",
-	"MoneyNum":"35元/货到付款"
+	"MoneyNum":"35元/货到付款",
+	"type":"4"
 }, {
 	"status": "2",
 	"category": "电子设备及其他物品",
@@ -98,5 +102,52 @@
 	"jiedanScore":"10",
 	"firePhone":"18518989539",
 	"distance":"约4000米",
-	"MoneyNum":"30元/货到付款"
-}]
+	"MoneyNum":"30元/货到付款",
+	"type":"1"
+},
+{
+	"status": "1",
+	"category": "课本书籍及其他物品",
+	"startName": "王瑶",
+	"endPhone": "18518979888",
+	"endName": "李达",
+	"startPhone": "18919888743",
+	"code": "998321",
+	"specialDes": "高数课本需要送过去",
+	"endTime": "2019-6-3 12:00",
+	"isJiaji": "1",
+	"startAddress": "理工大西校区5号宿舍楼楼102宿舍",
+	"startTime": "2019-5-27 8:20",
+    "endAddress": "理工大东校区1号楼教学楼602室",
+    "jiedanName":"李天华",
+    "jiedanPhone":"18799877643",
+	"jiedanScore":"10",
+	"firePhone":"18518989539",
+	"distance":"约3000米",
+	"MoneyNum":"25元/货到付款",
+	"type":"2"
+},
+{
+	"status": "1",
+	"category": "帮忙送鱼缸",
+	"startName": "刘美",
+	"endPhone": "18718977333",
+	"endName": "李红",
+	"startPhone": "18618889744",
+	"code": "123654",
+	"specialDes": "鱼缸易碎，希望小心保管",
+	"endTime": "2019-6-2 17:50",
+	"isJiaji": "0",
+	"startAddress": "理工大西校区10号宿舍楼楼501宿舍",
+	"startTime": "2019-6-2 10:50",
+    "endAddress": "理工大东校区2号楼教学楼442室",
+    "jiedanName":"李日",
+    "jiedanPhone":"18718989000",
+	"jiedanScore":"10",
+	"firePhone":"18518989539",
+	"distance":"约5000米",
+	"MoneyNum":"35元/货到付款",
+	"type":"3"
+}
+
+]
