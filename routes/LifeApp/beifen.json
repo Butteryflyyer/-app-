@@ -1,4 +1,5 @@
 [
+  
     {   "type":"需要阿姨小时工打扫房间",
         "address":"威海市环翠区百家小区11号楼101号",
         "name":"李先生",
@@ -104,6 +105,23 @@
         "JieDanphone":"18518989539",
         "firetime":"2019-5-14 10:00"
     },
+    {"type":"初四学生中考辅导",
+        "address":"威海市环翠区顺利小区7号楼1005号",
+        "name":"黄女士",
+        "phone":"18586980000",
+        "endtime":"2019-5-18",
+        "moneytype":"日结",
+        "moneynum":"70/小时",
+        "yaoqiu":"性别要求男士，最好可以和孩子做朋友的那种",
+        "code":"0000",
+        "category":"4",
+        "jiaji":"0",
+        "status":"0",
+        "JieDanphone":"",
+        "objectId":"0x239843898923112321",
+        "typeName":"家教",
+        "firetime":"2019-5-16 10:00"
+    },
     {"type":"需要阿姨小时工打扫厕所",
         "address":"威海市环翠区乐天小区12号楼1201号",
         "name":"刘先生",
@@ -189,7 +207,23 @@
             "JieDanphone":"",
             "firetime":"2019-5-14 10:00"
     },
-    
+    {"type":"高二辅导数学",
+        "address":"威海市环翠区永天小区10号楼105号",
+        "name":"郭女士",
+        "phone":"18586981876",
+        "endtime":"2019-5-19",
+        "moneytype":"日结",
+        "moneynum":"100/小时",
+        "yaoqiu":"高二辅导数学，孩子目前数学只能考60多，希望可以到100多。",
+        "code":"1202",
+        "category":"4",
+        "jiaji":"0",
+        "status":"0",
+        "JieDanphone":"",
+        "objectId":"0x239843898923116876",
+        "typeName":"家教",
+        "firetime":"2019-5-15 10:00"
+    },
     
     {"type":"永天小区急需搬家工",
         "address":"威海市环翠区永天小区10号楼705号",
@@ -297,6 +331,23 @@
         "JieDanphone":"",
         "firetime":"2019-5-15 10:00"
     },
+    {"type":"高二辅导数学",
+        "address":"威海市环翠区永天小区10号楼105号",
+        "name":"郭女士",
+        "phone":"18586981876",
+        "endtime":"2019-5-19",
+        "moneytype":"日结",
+        "moneynum":"100/小时",
+        "yaoqiu":"高二辅导数学，孩子目前数学只能考60多，希望可以到100多。",
+        "code":"1232",
+        "category":"4",
+        "jiaji":"0",
+        "status":"0",
+        "JieDanphone":"",
+        "objectId":"0x239843898923116543",
+        "typeName":"家教",
+        "firetime":"2019-5-14 10:00"
+      },  
     {"type":"弘基电脑系统重装",
         "address":"威海市环翠区永丰小区1号楼505号",
         "name":"王女士",
@@ -347,26 +398,10 @@
         "objectId":"0x239843898923112338",
         "typeName":"搬家",
         "firetime":"2019-5-16 10:00",
-        "JieDanphone":"",
+        "JieDanphone":""
        
     },
-    {"type":"初四学生中考辅导",
-        "address":"威海市环翠区顺利小区7号楼1005号",
-        "name":"黄女士",
-        "phone":"18586980000",
-        "endtime":"2019-5-18",
-        "moneytype":"日结",
-        "moneynum":"70/小时",
-        "yaoqiu":"性别要求男士，最好可以和孩子做朋友的那种",
-        "code":"0000",
-        "category":"4",
-        "jiaji":"0",
-        "status":"0",
-        "JieDanphone":"",
-        "objectId":"0x239843898923112321",
-        "typeName":"家教",
-        "firetime":"2019-5-16 10:00"
-    },
+    
     {"type":"高一学生辅导英语",
         "address":"威海市环翠区永天小区7号楼905号",
         "name":"李先生",
@@ -383,44 +418,6 @@
         "objectId":"0x239843898923116543",
         "typeName":"家教",
         "firetime":"2019-5-15 10:00"
-    },
-    {"type":"高二辅导数学",
-        "address":"威海市环翠区永天小区10号楼105号",
-        "name":"郭女士",
-        "phone":"18586981876",
-        "endtime":"2019-5-19",
-        "moneytype":"日结",
-        "moneynum":"100/小时",
-        "yaoqiu":"高二辅导数学，孩子目前数学只能考60多，希望可以到100多。",
-        "code":"1232",
-        "category":"4",
-        "jiaji":"0",
-        "status":"0",
-        "JieDanphone":"",
-        "objectId":"0x239843898923116876",
-        "typeName":"家教",
-        "firetime":"2019-5-15 10:00"
-    },
-    
-    
-    {"type":"高二辅导数学",
-      "address":"威海市环翠区永天小区10号楼105号",
-      "name":"郭女士",
-      "phone":"18586981876",
-      "endtime":"2019-5-19",
-      "moneytype":"日结",
-      "moneynum":"100/小时",
-      "yaoqiu":"高二辅导数学，孩子目前数学只能考60多，希望可以到100多。",
-      "code":"1232",
-      "category":"4",
-      "jiaji":"0",
-      "status":"0",
-      "JieDanphone":"",
-      "objectId":"0x239843898923116543",
-      "typeName":"家教",
-      "firetime":"2019-5-14 10:00"
     }
-    
-    
     ]
     
