@@ -42,7 +42,7 @@ app.use('/studentJianzhi',studentJianzhiRouter);
 app.use('/lifeApp',lifeAppRouter);
 app.use('/BangJianzhiApp',BangAppRouter);
 app.use('/loveBangApp',loveBangAppRouter);
-app.user('./leBangApp',leBangAppRouter);
+app.user('/leBangApp',leBangAppRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
   next(createError(404));
