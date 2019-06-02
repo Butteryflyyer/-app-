@@ -65,6 +65,9 @@ fs.readFile(__dirname + '/LifeApp/LifeJob.json', function(err, data){
 })
 
 });
+
+
+
 //往工作列表写入数据
 
 router.post('/changLifeAction', function(req, res, next) {
