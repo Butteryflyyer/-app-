@@ -17,6 +17,7 @@ var lifeAppRouter = require("./routes/lifeApp");
 var BangAppRouter = require("./routes/BangJianzhiApp");
 var loveBangAppRouter = require("./routes/loveBangApp");
 var leBangAppRouter = require("./routes/leBangApp");
+var bangdiAppRouter = require("./routes/bangdiApp");
 var app = express();
 
 
@@ -45,6 +46,7 @@ app.use('/lifeApp',lifeAppRouter);
 app.use('/BangJianzhiApp',BangAppRouter);
 app.use('/loveBangApp',loveBangAppRouter);
 app.use('/leBangApp',leBangAppRouter);
+app.use('/bangdiApp',bangdiAppRouter);
 // app.user('/leBangApp',leBangAppRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
