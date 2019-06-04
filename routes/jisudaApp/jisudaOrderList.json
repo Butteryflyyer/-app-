@@ -14,7 +14,8 @@
     "endName": "李洪生",
     "firePhone":"18518989539",
     "token":"",
-    "moneyNum":"10元"
+    "moneyNum":"10元",
+    "distance":"2000米"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼302室",
 	"category": "书籍及其他物品",
@@ -31,7 +32,8 @@
     "endName": "李生",
     "firePhone":"18518989539",
     "token":"",
-    "moneyNum":"15元"
+    "moneyNum":"15元",
+    "distance":"2000米"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼442室",
 	"category": "生活及其他物品",
@@ -48,7 +50,8 @@
     "endName": "李样",
     "firePhone":"18518989539",
     "token":"",
-    "moneyNum":"10元"
+    "moneyNum":"10元",
+    "distance":"1500米"
 }, {
 	"endAddress": "理工大东校区1号楼教学楼502室",
 	"category": "食品及其他物品",
@@ -65,7 +68,8 @@
     "endName": "李洪",
     "firePhone":"",
     "token":"",
-    "moneyNum":"10元"
+    "moneyNum":"10元",
+    "distance":"2000米"
 }, {
 	"endAddress": "理工大东校区8号楼教学楼532室",
 	"category": "水及其他物品",
@@ -82,7 +86,8 @@
     "endName": "城生",
     "firePhone":"",
     "token":"",
-    "moneyNum":"20元"
+    "moneyNum":"20元",
+    "distance":"2200米"
 }, {
 	"endAddress": "理工大东校区7号楼教学楼102室",
 	"category": "包袱及其他物品",
@@ -99,7 +104,8 @@
     "endName": "李光",
     "firePhone":"",
     "token":"",
-    "moneyNum":"10元"
+    "moneyNum":"10元",
+    "distance":"2500米"
 }, {
 	"endAddress": "理工大东校区11号宿舍楼502",
 	"category": "餐饮及其他物品",
@@ -116,7 +122,8 @@
     "endName": "李暖",
     "firePhone":"",
     "token":"",
-    "moneyNum":"20元"
+    "moneyNum":"20元",
+    "distance":"2600米"
 }, {
 	"endAddress": "理工大东校区10号楼教学楼502室",
 	"category": "餐饮及其他物品",
@@ -133,7 +140,8 @@
     "endName": "白天洋",
     "firePhone":"",
     "token":"",
-    "moneyNum":"10元"
+    "moneyNum":"10元",
+    "distance":"1600米"
 }, {
 	"endAddress": "理工大东校区2号楼教学楼502室",
 	"category": "餐饮及其他物品",
@@ -150,7 +158,8 @@
     "endName": "李生",
     "firePhone":"",
     "token":"",
-    "moneyNum":"20元"
+    "moneyNum":"20元",
+    "distance":"1700米"
 }, {
 	"endAddress": "理工大东校区8号楼教学楼502室",
 	"category": "餐饮及其他物品",
@@ -167,5 +176,6 @@
     "endName": "李天意",
     "firePhone":"",
     "token":"",
-    "moneyNum":"10元"
+    "moneyNum":"10元",
+    "distance":"1500米"
 }]
