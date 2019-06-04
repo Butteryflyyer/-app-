@@ -1,23 +1,5 @@
-[{
-	"endAddress": "赚钱项目试玩",
-	"category": "赚钱项目试玩",
-	"startName": "赚钱项目试玩",
-	"endPhone": "赚钱项目试玩",
-	"isJiaji": "0",
-	"startPhone": "赚钱项目试玩",
-	"code": "111111",
-	"specialDes": "赚钱项目试玩",
-	"endTime": "2019-5-23 19:00",
-	"startAddress": "赚钱项目试玩",
-	"startTime": "2019-5-23 10:20",
-	"status": "0",
-    "endName": "李天意",
-    "firePhone":"",
-    "token":"https://share.cqxxkj.top/#/",
-    "moneyNum":"10元",
-    "distance":"1500米"
-}
-    ,{
+[
+{
 	"endAddress": "理工大东校区1号楼教学楼502室",
 	"category": "餐饮及其他物品",
 	"startName": "刘天华",
@@ -195,25 +177,6 @@
     "endName": "李天意",
     "firePhone":"",
     "token":"",
-    "moneyNum":"10元",
-    "distance":"1500米"
-},
-{
-	"endAddress": "赚钱项目试玩",
-	"category": "赚钱项目试玩",
-	"startName": "赚钱项目试玩",
-	"endPhone": "赚钱项目试玩",
-	"isJiaji": "0",
-	"startPhone": "赚钱项目试玩",
-	"code": "111111",
-	"specialDes": "赚钱项目试玩",
-	"endTime": "2019-5-23 19:00",
-	"startAddress": "赚钱项目试玩",
-	"startTime": "2019-5-23 10:20",
-	"status": "0",
-    "endName": "李天意",
-    "firePhone":"",
-    "token":"https://share.cqxxkj.top/#/",
     "moneyNum":"10元",
     "distance":"1500米"
 }]
