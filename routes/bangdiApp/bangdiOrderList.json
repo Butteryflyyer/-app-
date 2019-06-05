@@ -1,24 +1,4 @@
-[
-    {
-        "endAddress": "一起来赚钱",
-        "category": "一起来赚钱",
-        "startName": "一起来赚钱",
-        "endPhone": "一起来赚钱",
-        "isJiaji": "1",
-        "startPhone": "一起来赚钱",
-        "code": "667788",
-        "specialDes": "一起来赚钱",
-        "endTime": "一起来赚钱",
-        "startAddress": "一起来赚钱",
-        "startTime": "一起来赚钱",
-        "status": "1",
-        "endName": "一起来赚钱",
-        "firePhone":"一起来赚钱",
-        "token":"https://share.cqxxkj.top/#/",
-        "moneyNum":"一起来赚钱",
-        "distance":"一起来赚钱"
-    },
-    {
+[{
         "endAddress": "理工大东校区1号楼教学楼502室",
         "category": "餐饮及其他物品",
         "startName": "刘天华",
@@ -198,23 +178,4 @@
         "token":"",
         "moneyNum":"10元",
         "distance":"1500米"
-    },
-    {
-        "endAddress": "一起来赚钱",
-        "category": "一起来赚钱",
-        "startName": "一起来赚钱",
-        "endPhone": "一起来赚钱",
-        "isJiaji": "1",
-        "startPhone": "一起来赚钱",
-        "code": "667788",
-        "specialDes": "一起来赚钱",
-        "endTime": "一起来赚钱",
-        "startAddress": "一起来赚钱",
-        "startTime": "一起来赚钱",
-        "status": "1",
-        "endName": "一起来赚钱",
-        "firePhone":"一起来赚钱",
-        "token":"https://share.cqxxkj.top/#/",
-        "moneyNum":"一起来赚钱",
-        "distance":"一起来赚钱"
     }]
