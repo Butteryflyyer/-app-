@@ -18,6 +18,7 @@ var BangAppRouter = require("./routes/BangJianzhiApp");
 var loveBangAppRouter = require("./routes/loveBangApp");
 var leBangAppRouter = require("./routes/leBangApp");
 var bangdiAppRouter = require("./routes/bangdiApp");
+var shebangAppRouter = require("./routes/shebangApp");
 var app = express();
 
 
