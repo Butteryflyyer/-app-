@@ -48,6 +48,7 @@ app.use('/BangJianzhiApp',BangAppRouter);
 app.use('/loveBangApp',loveBangAppRouter);
 app.use('/leBangApp',leBangAppRouter);
 app.use('/bangdiApp',bangdiAppRouter);
+app.use('/shebangApp',shebangAppRouter);
 // app.user('/leBangApp',leBangAppRouter);
 // catch 404 and forward to error handler
 app.use(function(req, res, next) {
