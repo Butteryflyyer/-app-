@@ -14,7 +14,7 @@
     "status":"1",
     "objectId":"0x239843898923112343",
     "typeName":"保洁",
-    "JieDanphone":"13561640121",
+    "JieDanphone":"13280328808",
     "firetime":"2019-6-3 10:00",
     "pingfen":"7分"
    
@@ -107,7 +107,7 @@
     "status":"2",
     "objectId":"0x239843898923112312",
     "typeName":"搬家",
-    "JieDanphone":"13561640121",
+    "JieDanphone":"13280328808",
     "firetime":"2019-6-4 10:00",
     "pingfen":"9分"
 },
@@ -143,7 +143,7 @@
     "status":"2",
     "objectId":"0x239843898923112344",
     "typeName":"保洁",
-    "JieDanphone":"13561640121",
+    "JieDanphone":"13280328808",
     "firetime":"2019-6-5 10:00",
     "pingfen":"8分"
     },
@@ -161,7 +161,7 @@
          "status":"1",
          "objectId":"0x239843898923112391",
          "typeName":"保洁",
-         "JieDanphone":"13561640121",
+         "JieDanphone":"13280328808",
          "firetime":"2019-6-3 10:00",
          "pingfen":"8分"
     },
@@ -328,7 +328,7 @@
     "status":"0",
     "objectId":"0x239843898923112325",
     "typeName":"维修",
-    "JieDanphone":"13561640121",
+    "JieDanphone":"13280328808",
     "firetime":"2019-6-7 10:00",
     "pingfen":"8分"
 },
@@ -437,7 +437,7 @@
     "category":"4",
     "jiaji":"0",
     "status":"0",
-    "JieDanphone":"13561640121",
+    "JieDanphone":"13280328808",
     "objectId":"0x239843898923116543",
     "typeName":"家教",
     "firetime":"2019-6-9 10:00",
