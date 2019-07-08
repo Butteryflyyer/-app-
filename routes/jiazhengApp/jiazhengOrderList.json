@@ -14,7 +14,8 @@
         "JieDanphone":"",
         "bianhao":"0x234655632321324",
         "token":"",
-        "score":"4"
+        "score":"4",
+        "imageType":"1"
     },
   
       {"type":"四居室急招人打扫",
@@ -32,7 +33,8 @@
           "JieDanphone":"",
           "bianhao":"0x234655632321324",
           "token":"",
-          "score":"4"
+          "score":"4",
+          "imageType":"2"
   },
   
   {"type":"乐水小区需搬家工数名",
@@ -50,7 +52,8 @@
       "JieDanphone":"",
       "bianhao":"0x234655632321398",
       "token":"",
-      "score":"5"
+      "score":"5",
+      "imageType":"3"
   },
 
   {"type":"需要阿姨小时工打扫房间",
@@ -68,7 +71,8 @@
     "JieDanphone":"",
     "bianhao":"0x234655632321332",
     "token":"",
-    "score":"4"
+    "score":"4",
+    "imageType":"4"
     },
   {"type":"顺利小区二居室搬家",
       "address":"威海市环翠区顺利小区10号楼805号",
@@ -85,7 +89,8 @@
       "JieDanphone":"",
       "bianhao":"0x234655632321232",
       "token":"",
-      "score":"5"
+      "score":"5",
+      "imageType":"1"
   },
   
   {"type":"三居室需要打扫保洁",
@@ -103,7 +108,8 @@
      "JieDanphone":"",
      "bianhao":"0x234655632321323",
      "token":"",
-     "score":"4"
+     "score":"4",
+     "imageType":"2"
 },
   
   {"type":"海尔冰箱维修",
@@ -121,7 +127,8 @@
       "JieDanphone":"",
       "bianhao":"0x234655632321777",
       "token":"",
-      "score":"5"
+      "score":"5",
+      "imageType":"3"
   },
   {"type":"乐视电视机维修",
       "address":"威海市环翠区永天小区8号楼805号",
@@ -138,7 +145,8 @@
       "JieDanphone":"18518989539",
       "bianhao":"0x234655632321999",
       "token":"",
-      "score":"4"
+      "score":"4",
+      "imageType":"4"
   },
   {"type":"空调维修",
       "address":"威海市环翠区永天小区5号楼1005号",
@@ -155,7 +163,8 @@
       "JieDanphone":"",
       "bianhao":"0x234655632321222",
       "token":"",
-      "score":"4"
+      "score":"4",
+      "imageType":"1"
   },
   {"type":"永田小区四居室搬家",
     "address":"威海市环翠区永田小区1号楼105号",
@@ -172,7 +181,8 @@
     "JieDanphone":"18518989539",
     "bianhao":"0x234655632321009",
     "token":"",
-    "score":"4"
+    "score":"4",
+    "imageType":"2"
 },
   {"type":"弘基电脑系统重装",
       "address":"威海市环翠区永丰小区1号楼505号",
@@ -189,7 +199,8 @@
       "JieDanphone":"18518989539",
       "bianhao":"0x234655632321873",
       "token":"",
-      "score":"5"
+      "score":"5",
+      "imageType":"3"
   },
   {"type":"永天小区急需搬家工",
     "address":"威海市环翠区永天小区10号楼705号",
@@ -206,7 +217,8 @@
     "JieDanphone":"",
     "bianhao":"0x234655632321654",
     "token":"",
-    "score":"4"
+    "score":"4",
+    "imageType":"4"
 },
   {"type":"急需宽带安装",
       "address":"威海市环翠区顺利小区1号楼1005号",
@@ -223,7 +235,8 @@
       "JieDanphone":"18518989539",
       "bianhao":"0x234655632321232",
       "token":"",
-      "score":"4"
+      "score":"4",
+      "imageType":"1"
   
   },
   
@@ -243,7 +256,8 @@
       "JieDanphone":"18518989539",
       "bianhao":"0x234655632321111",
       "token":"",
-      "score":"5"
+      "score":"5",
+      "imageType":"2"
   },
   {"type":"三年级小学生辅导数学",
       "address":"威海市环翠区永天小区7号楼505号",
@@ -260,7 +274,8 @@
       "JieDanphone":"18518989539",
       "bianhao":"0x234655632321777",
       "token":"",
-      "score":"4"
+      "score":"4",
+      "imageType":"3"
   },
   {"type":"初四学生中考辅导",
       "address":"威海市环翠区顺利小区7号楼1005号",
@@ -276,7 +291,8 @@
       "status":"0",
       "JieDanphone":"",
       "token":"",
-      "score":"4"
+      "score":"4",
+      "imageType":"4"
   },
  
   {"type":"需要阿姨小时工打扫厕所",
@@ -294,7 +310,8 @@
     "JieDanphone":"",
     "bianhao":"0x234655632321300",
     "token":"",
-    "score":"4"
+    "score":"4",
+    "imageType":"1"
     },
   {"type":"高二辅导数学",
       "address":"威海市环翠区永天小区10号楼105号",
@@ -311,7 +328,8 @@
       "JieDanphone":"",
       "bianhao":"0x234655632321874",
       "token":"",
-      "score":"4"
+      "score":"4",
+      "imageType":"2"
   },
 
 
@@ -330,7 +348,8 @@
     "JieDanphone":"",
     "bianhao":"0x234655632321987",
     "token":"",
-    "score":"5"
+    "score":"5",
+    "imageType":"3"
 },
   {"type":"高二辅导数学",
     "address":"威海市环翠区永天小区10号楼105号",
@@ -347,7 +366,8 @@
     "JieDanphone":"",
     "bianhao":"0x234655632321232",
     "token":"",
-    "score":"4"
+    "score":"4",
+    "imageType":"4"
 },
 
 {
