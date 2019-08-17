@@ -79,14 +79,14 @@
         
     },
 	
-   {"type":"合作请联系QQ",
-        "address":"联系QQ",
-        "name":"合作、联系我们请加QQ",
+   {"type":"关于我们",
+        "address":"公司简介",
+        "name":"合作详情请点击进入",
         "phone":"qq：7783565",
         "endtime":"长期合作联系",
         "moneytype":"",
         "moneynum":"",
-        "yaoqiu":"有需要兼职合作的可以加QQ联系经理。",
+        "yaoqiu":"在线客服QQ，合作请联系QQ，做兼职任务的勿加。",
         "code":"qq：7783565",
         "category":"4",
         "jiaji":"0",
