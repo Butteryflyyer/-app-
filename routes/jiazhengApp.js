@@ -68,18 +68,18 @@ fs.readFile(__dirname + '/jiazhengApp/jiazhengOrderList.json', function(err, dat
 //往工作列表写入数据
 
 router.post('/jiazhengGetOrderAction', function(req, res, next) {
-  var dic = req.body;
-  console.log(dic.data);
-  console.log(dic);
+  // var dic = req.body;
+  // console.log(dic.data);
+  // console.log(dic);
 
-  fs.writeFile(__dirname + '/jiazhengApp/jiazhengOrderList.json',dic.data, function(err){
-    if(!err){
+  // fs.writeFile(__dirname + '/jiazhengApp/jiazhengOrderList.json',dic.data, function(err){
+  //   if(!err){
   
-        res.send('success');
-    }else{
-        throw err;
-    }
-  })
+  //       res.send('success');
+  //   }else{
+  //       throw err;
+  //   }
+  // })
 });
 //拿取已接单
 router.post('/jiazhengAready', function(req, res, next) {
